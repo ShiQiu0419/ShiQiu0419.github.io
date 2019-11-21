@@ -18,6 +18,7 @@ Hi, this is personal page of Shi QIU (邱实). The 1st year PhD candidate at ANU
 
 ## Work Experience
 * Research Engineer in Computer Vision, Vivo AI Lab, Shenzhen, China (2018-2019)
+* Research PhD Student, Data61 CSIRO, Canberra, Australia (2019-Now)
 
 ## Publications
 
