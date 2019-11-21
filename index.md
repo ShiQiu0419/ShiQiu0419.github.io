@@ -22,8 +22,9 @@ Hi, I am Shi QIU (邱实), a 1st year PhD candidate at ANU College of Engineerin
 **Data61 CSIRO**, Canberra, Australia (2019-Now)
 
 ## Research Interest
-3D Computer Vision, 3D VR/AR, etc.  
-Currently working on point clouds related topics.
+* 3D Computer Vision
+* 3D VR/AR, etc.  
+* Currently working on point clouds related topics.
 
 ## Publications
 * Geometric Feedback Network for Point Cloud Classification (Nov 2019)  
