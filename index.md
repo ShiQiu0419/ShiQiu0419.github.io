@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
-Hi, I am Shi QIU (邱实), a 1st year PhD candidate at ANU College of Engineering & Computer Science and Data61, CSIRO. I am working with A/Prof. Nick Barnes (ANU) and Dr. Saeed Anwar (Data61, CSIRO).
+Hi, I am Shi QIU (邱实), a 1st year PhD candidate at ANU College of Engineering & Computer Science and Data61, CSIRO. I am working with [A/Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) (ANU) and [Dr. Saeed Anwar](https://saeed-anwar.github.io/) (Data61, CSIRO).
 
 ## Education Background
 * **BEng** in Electronic and Information Engineering  
