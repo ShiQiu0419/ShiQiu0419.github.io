@@ -3,11 +3,9 @@ layout: default
 ---
 
 ## About Me
-
-Hi, this is personal page of Shi QIU (邱实). The 1st year PhD candidate at ANU College of Engineering & Computer Science and Data61, CSIRO.
+Hi, I am Shi QIU (邱实), a 1st year PhD candidate at ANU College of Engineering & Computer Science and Data61, CSIRO. I am working with A/Prof. Nick Barnes (ANU) and Dr. Saeed Anwar (Data61, CSIRO)
 
 ## Research Interest
-
 3D Computer Vision, currently working on point clouds related topics.
 
 ## Education Background
@@ -21,8 +19,7 @@ Hi, this is personal page of Shi QIU (邱实). The 1st year PhD candidate at ANU
 * Research PhD Student, Data61 CSIRO, Canberra, Australia (2019-Now)
 
 ## Publications
-* Geometric Feedback Network for Point Cloud Classification
-[project page](https://github.com/ShiQiu0419/GFNet)
+* Geometric Feedback Network for Point Cloud Classification  [project page](https://github.com/ShiQiu0419/GFNet)
 
 ## Contact
 * Email: [shi.qiu@anu.edu.au](mailto:shi.qiu@anu.edu.au)
