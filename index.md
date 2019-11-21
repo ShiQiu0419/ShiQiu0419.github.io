@@ -11,9 +11,14 @@ Hi, this is personal page of Shi QIU (邱实). The 1st year PhD candidate at ANU
 3D Computer Vision, currently working on point clouds related topics.
 
 ## Education Background
-* Bachelor Degree in Electronic and Information Engineering, Dalian University of Technology, China
+* BEng in Electronic and Information Engineering, Dalian University of Technology, China
+* MSc in ICT Innovation (Virtual Environments), KTH Royal Institute of Technology, Sweden
+* MSc in ICT Innovation (Virtual Environments), University College London, UK
+
+## Work Experience
+* Research Engineer in Computer Vision, Vivo AI Lab, Shenzhen, China
 
 ## Publications
 
-1. Geometric Feedback Network for Point Cloud Classification
-[paper] [project page](https://github.com/ShiQiu0419/GFNet)
+* Geometric Feedback Network for Point Cloud Classification
+[project page](https://github.com/ShiQiu0419/GFNet)
