@@ -10,7 +10,7 @@ Hi, I am Shi QIU (邱实), a 1st year PhD candidate at ANU College of Engineerin
 *Dalian University of Technology*, China (2010-2015)
 * **MSc in ICT Innovation (Virtual Environments)**  
 *KTH Royal Institute of Technology*, Sweden (2015-2016)
-* **MSc in ICT Innovation (Virtual Environments)** 
+* **MSc in ICT Innovation (Virtual Environments)**  
 *University College London*, UK (2016-2017)
 * **PhD in Engineering and Computer Science**  
 *The Australian National University*, Australia (2019-Now)
