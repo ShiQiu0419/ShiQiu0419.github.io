@@ -21,6 +21,9 @@ Hi, this is personal page of Shi QIU (邱实). The 1st year PhD candidate at ANU
 * Research PhD Student, Data61 CSIRO, Canberra, Australia (2019-Now)
 
 ## Publications
-
 * Geometric Feedback Network for Point Cloud Classification
 [project page](https://github.com/ShiQiu0419/GFNet)
+
+## Contact
+* Email: [shi.qiu@anu.edu.au](mailto:shi.qiu@anu.edu.au)
+* Email: [shi.qiu@data61.csiro.au](mailto:shi.qiu@data61.csiro.au)
