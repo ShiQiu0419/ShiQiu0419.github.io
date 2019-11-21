@@ -6,20 +6,20 @@ layout: default
 Hi, I am Shi QIU (邱实), a 1st year PhD candidate at ANU College of Engineering & Computer Science and Data61, CSIRO. I am working with A/Prof. Nick Barnes (ANU) and Dr. Saeed Anwar (Data61, CSIRO)
 
 ## Education Background
-* **BEng in Electronic and Information Engineering**  
+* **BEng** in Electronic and Information Engineering  
 *Dalian University of Technology*, China (2010-2015)
-* **MSc in ICT Innovation (Virtual Environments)**  
+* **MSc** in ICT Innovation (Virtual Environments)  
 *KTH Royal Institute of Technology*, Sweden (2015-2016)
-* **MSc in ICT Innovation (Virtual Environments)**  
+* **MSc** in ICT Innovation (Virtual Environments)  
 *University College London*, UK (2016-2017)
-* **PhD in Engineering and Computer Science**  
+* **PhD** in Engineering and Computer Science  
 *The Australian National University*, Australia (2019-Now)
 
 ## Work Experience
-* Research Engineer in Computer Vision  
-Vivo AI Lab, Shenzhen, China (2018-2019)
-* Research PhD Student  
-Data61 CSIRO, Canberra, Australia (2019-Now)
+* **Research Engineer** in Computer Vision  
+*Vivo AI Lab*, Shenzhen, China (2018-2019)
+* **Research PhD Student**  
+*Data61 CSIRO*, Canberra, Australia (2019-Now)
 
 ## Research Interest
 3D Computer Vision, 3D VR/AR, etc.  
