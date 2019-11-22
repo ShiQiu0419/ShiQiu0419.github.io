@@ -35,4 +35,4 @@ Supervised by: [Prof. Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) and 
 ## Contact
 * Email: [shi.qiu@anu.edu.au](mailto:shi.qiu@anu.edu.au)
 * Email: [shi.qiu@data61.csiro.au](mailto:shi.qiu@data61.csiro.au)  
-* Address: [Building 801, CSIRO Black Mountain Site, Canberra, Australia](https://goo.gl/maps/CTCSVnrkLpAaSXgx9)
+* Address: [Synergy Building 801](https://goo.gl/maps/CTCSVnrkLpAaSXgx9), CSIRO Black Mountain Site, Canberra, Australia
