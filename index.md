@@ -29,7 +29,8 @@ Supervised by: [Prof. Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) and 
 * Currently working on point clouds related topics.
 
 ## Publications
-* **Geometric Feedback Network for Point Cloud Classification** [[project page](https://github.com/ShiQiu0419/GFNet)] [[arXiv](https://arxiv.org/abs/1911.12885)]
+* **Geometric Feedback Network for Point Cloud Classification**  
+[[project page](https://github.com/ShiQiu0419/GFNet)] [[arXiv](https://arxiv.org/abs/1911.12885)]
 
       @misc{qiu2019geometric,
           title={Geometric Feedback Network for Point Cloud Classification},
