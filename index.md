@@ -32,15 +32,6 @@ Supervised by: [Prof. Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) and 
 * **Geometric Feedback Network for Point Cloud Classification**  
 [[arXiv](https://arxiv.org/abs/1911.12885)][[project page](https://github.com/ShiQiu0419/GFNet)]
 
-      @misc{qiu2019geometric,
-          title={Geometric Feedback Network for Point Cloud Classification},
-          author={Shi Qiu and Saeed Anwar and Nick Barnes},
-          year={2019},
-          eprint={1911.12885},
-          archivePrefix={arXiv},
-          primaryClass={cs.CV}
-      }
-
 ## Contact
 * Email: [shi.qiu@anu.edu.au](mailto:shi.qiu@anu.edu.au)
 * Email: [shi.qiu@data61.csiro.au](mailto:shi.qiu@data61.csiro.au)  
