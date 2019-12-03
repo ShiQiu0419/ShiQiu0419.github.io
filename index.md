@@ -30,7 +30,7 @@ Supervised by: [Prof. Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) and 
 
 ## Publications
 * Geometric Feedback Network for Point Cloud Classification (Nov 2019)  
-[project page](https://github.com/ShiQiu0419/GFNet)
+[[project page](https://github.com/ShiQiu0419/GFNet)]  [[arXiv](https://arxiv.org/abs/1911.12885)]
 
 ## Contact
 * Email: [shi.qiu@anu.edu.au](mailto:shi.qiu@anu.edu.au)
