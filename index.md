@@ -37,4 +37,4 @@ Supervised by: [Prof. Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) and 
 * Email: [shi.qiu@data61.csiro.au](mailto:shi.qiu@data61.csiro.au)  
 * Address: CSIRO Black Mountain Site, Acton ACT 2601, Australia
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=V7D6ej10gXXtCoqISuoasXbDtklVb6oGJd8AjiUwY58&cl=ffffff&w=a"></script>
+<iframe src="//cdn.clustrmaps.com/map_v2.js?d=V7D6ej10gXXtCoqISuoasXbDtklVb6oGJd8AjiUwY58&cl=ffffff&w=a" width="360" height="270" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
