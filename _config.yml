@@ -6,6 +6,8 @@ markdown: kramdown
 
 tracking_id: #
 
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=V7D6ej10gXXtCoqISuoasXbDtklVb6oGJd8AjiUwY58&cl=ffffff&w=a"></script>
+
 footer: yes
 footer_text: "Page maintained by Shi Qiu"
 
