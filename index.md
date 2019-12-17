@@ -10,7 +10,7 @@ Hi, I am Shi QIU (邱实), a 1st year PhD candidate at ANU College of Engineerin
 ## Education Background
 * **BEng** in Electronic and Information Engineering  
 **Dalian University of Technology**, China (2010-2015)
-* **MSc** in ICT Innovation (Virtual Environments)  
+* **MSc** in ICT Innovation (Digital Media Technology)  
 **KTH Royal Institute of Technology**, Sweden (2015-2016)  
 **University College London**, UK (2016-2017)  
 Supervised by: [Prof. Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) and [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/)
