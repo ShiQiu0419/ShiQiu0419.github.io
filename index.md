@@ -32,7 +32,7 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 * **Geometric Back-projection Network for Point Cloud Classification**  
 [[arXiv](https://arxiv.org/abs/1911.12885)][[project page](https://github.com/ShiQiu0419/GFNet)]
 * **Dense-Resolution Network for Point Cloud Classification and Segmentation**  
-coming soon
+coming soon..
 
 ## Contact
 * Email: [shi.qiu@anu.edu.au](mailto:shi.qiu@anu.edu.au)
