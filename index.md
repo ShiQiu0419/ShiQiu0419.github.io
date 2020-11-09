@@ -33,6 +33,7 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 [[arXiv](https://arxiv.org/abs/1911.12885)][[project page](https://github.com/ShiQiu0419/GFNet)]
 * **Dense-Resolution Network for Point Cloud Classification and Segmentation**  
 [[arXiv](https://arxiv.org/abs/2005.06734)][[project page](https://github.com/ShiQiu0419/DRNet)]
+IEEE Winter Conference on Applications of Computer Vision (WACV) , 2021
 
 ## Contact
 * Email: [shi.qiu@anu.edu.au](mailto:shi.qiu@anu.edu.au)
