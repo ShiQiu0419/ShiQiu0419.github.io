@@ -32,7 +32,7 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 * **Geometric Back-projection Network for Point Cloud Classification**  
 [[arXiv](https://arxiv.org/abs/1911.12885)][[project page](https://github.com/ShiQiu0419/GFNet)]
 * **Dense-Resolution Network for Point Cloud Classification and Segmentation**   
-IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2021  
+*IEEE Winter Conference on Applications of Computer Vision* (**WACV 2021**)  
 [[arXiv](https://arxiv.org/abs/2005.06734)][[project page](https://github.com/ShiQiu0419/DRNet)]
 
 ## Contact
