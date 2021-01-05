@@ -35,6 +35,13 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 *IEEE Winter Conference on Applications of Computer Vision* (**WACV**), 2021  
 [[arXiv](https://arxiv.org/abs/2005.06734)][[CVF](https://openaccess.thecvf.com/content/WACV2021/papers/Qiu_Dense-Resolution_Network_for_Point_Cloud_Classification_and_Segmentation_WACV_2021_paper.pdf)][[project page](https://github.com/ShiQiu0419/DRNet)]
 
+<details>
+<summary>Click to expand</summary>
+
+whatever
+
+</details>
+
 If you find our paper is useful, please cite:
 
     @inproceedings{qiu2021dense,
