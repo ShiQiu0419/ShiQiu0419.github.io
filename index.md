@@ -25,7 +25,7 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 * **Academic Tutor**  
 COMP3670/6670, Introduction to Machine Learning  
 ENGN4528, Computer Vision  
-**ANU College of Engineering and Computer Science**, Canberra, Australia (2020-Now)
+**ANU College of Engineering and Computer Science**, Australia (2020-Now)
 
 ## Research Interest
 * 3D Computer Vision
