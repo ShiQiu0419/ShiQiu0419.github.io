@@ -23,8 +23,8 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 * **Research PhD Student**  
 **Data61 CSIRO**, Canberra, Australia (2019-Now)
 * **Academic Tutor**  
-COMP3670/6670, Introduction to Machine Learning  
-ENGN4528, Computer Vision  
+Introduction to Machine Learning (COMP3670/6670)  
+Computer Vision (ENGN4528)  
 **ANU College of Engineering and Computer Science**, Australia (2020-Now)
 
 ## Research Interest
