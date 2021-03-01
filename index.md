@@ -22,7 +22,7 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 **Vivo AI Lab**, Shenzhen, China (2018-2019)
 * **Research PhD Student**  
 **Data61 CSIRO**, Canberra, Australia (2019-Now)
-* **Teaching Assistant**  
+* **Academic Tutor**  
 COMP3670/6670, Introduction to Machine Learning  
 ENGN4528, Computer Vision  
 **ANU College of Engineering and Computer Science**, Canberra, Australia (2020-Now)
