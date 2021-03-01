@@ -34,6 +34,9 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 * **Dense-Resolution Network for Point Cloud Classification and Segmentation**   
 *IEEE Winter Conference on Applications of Computer Vision* (**WACV**), 2021  
 [[arXiv](https://arxiv.org/abs/2005.06734)][[CVF](https://openaccess.thecvf.com/content/WACV2021/papers/Qiu_Dense-Resolution_Network_for_Point_Cloud_Classification_and_Segmentation_WACV_2021_paper.pdf)][[supp](https://openaccess.thecvf.com/content/WACV2021/supplemental/Qiu_Dense-Resolution_Network_for_WACV_2021_supplemental.pdf)][[oral video](https://youtu.be/TnbksHzaJzw)][[project page](https://github.com/ShiQiu0419/DRNet)]  
+* **Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion**   
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR**, accepted), 2021  
+[[coming soon](https://shiqiu0419.github.io/)] 
 
 ## Contact
 * Email: [shi.qiu@anu.edu.au](mailto:shi.qiu@anu.edu.au)
