@@ -34,6 +34,7 @@ ENGN4528 Computer Vision
 
 ## Publications
 * **Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion**   
+S. Qiu, S. Anwar and N. Barnes  
 *IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2021  
 [[arXiv](https://arxiv.org/abs/2103.07074)][[project page](https://github.com/ShiQiu0419/BAAF-Net)]
 * **Dense-Resolution Network for Point Cloud Classification and Segmentation**   
