@@ -7,6 +7,20 @@ layout: default
 
 Hi, I am Shi QIU (邱实), a 2nd year PhD candidate at ANU College of Engineering & Computer Science and Data61, CSIRO. I am working with [Dr. Saeed Anwar](https://saeed-anwar.github.io/) (Data61, CSIRO) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) (ANU).
 
+## Publications
+* **Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion**   
+Shi Qiu, Saeed Anwar, Nick Barnes  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021  
+[[arXiv](https://arxiv.org/abs/2103.07074)][[project page](https://github.com/ShiQiu0419/BAAF-Net)]
+* **Dense-Resolution Network for Point Cloud Classification and Segmentation**   
+Shi Qiu, Saeed Anwar, Nick Barnes  
+IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2021  
+[[arXiv](https://arxiv.org/abs/2005.06734)][[CVF](https://openaccess.thecvf.com/content/WACV2021/papers/Qiu_Dense-Resolution_Network_for_Point_Cloud_Classification_and_Segmentation_WACV_2021_paper.pdf)][[supp](https://openaccess.thecvf.com/content/WACV2021/supplemental/Qiu_Dense-Resolution_Network_for_WACV_2021_supplemental.pdf)][[oral video](https://youtu.be/TnbksHzaJzw)][[project page](https://github.com/ShiQiu0419/DRNet)] 
+* **Geometric Back-projection Network for Point Cloud Classification**  
+Shi Qiu, Saeed Anwar, Nick Barnes  
+*Under Journal Review*, 2020  
+[[arXiv](https://arxiv.org/abs/1911.12885)][[project page](https://github.com/ShiQiu0419/GFNet)] 
+
 ## Education Background
 * **BEng** in Electronic and Information Engineering  
 **Dalian University of Technology**, China (2010-2015)
@@ -31,20 +45,6 @@ ENGN4528 Computer Vision
 * 3D Computer Vision
 * 3D VR/AR, etc.  
 * Currently working on point clouds related topics.
-
-## Publications
-* **Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion**   
-Shi Qiu, Saeed Anwar, Nick Barnes  
-IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021  
-[[arXiv](https://arxiv.org/abs/2103.07074)][[project page](https://github.com/ShiQiu0419/BAAF-Net)]
-* **Dense-Resolution Network for Point Cloud Classification and Segmentation**   
-Shi Qiu, Saeed Anwar, Nick Barnes  
-IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2021  
-[[arXiv](https://arxiv.org/abs/2005.06734)][[CVF](https://openaccess.thecvf.com/content/WACV2021/papers/Qiu_Dense-Resolution_Network_for_Point_Cloud_Classification_and_Segmentation_WACV_2021_paper.pdf)][[supp](https://openaccess.thecvf.com/content/WACV2021/supplemental/Qiu_Dense-Resolution_Network_for_WACV_2021_supplemental.pdf)][[oral video](https://youtu.be/TnbksHzaJzw)][[project page](https://github.com/ShiQiu0419/DRNet)] 
-* **Geometric Back-projection Network for Point Cloud Classification**  
-Shi Qiu, Saeed Anwar, Nick Barnes  
-*Under Journal Review*, 2020  
-[[arXiv](https://arxiv.org/abs/1911.12885)][[project page](https://github.com/ShiQiu0419/GFNet)] 
 
 ## Contact
 * Email: [shi.qiu@anu.edu.au](mailto:shi.qiu@anu.edu.au)
