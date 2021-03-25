@@ -33,9 +33,9 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 
 ## Work Experience
 * **Teaching Assistant**  
-**ANU CECS**, Canberra, Australia (2020-Now)  
 COMP6670 Introduction to Machine Learning  
 ENGN4528 Computer Vision  
+**ANU CECS**, Canberra, Australia (2020-Now)  
 * **Research PhD Student**  
 **Data61 CSIRO**, Canberra, Australia (2019-Now)   
 * **Research Engineer** in Computer Vision  
