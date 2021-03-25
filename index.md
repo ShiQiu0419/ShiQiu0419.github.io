@@ -22,14 +22,14 @@ Shi Qiu, Saeed Anwar, Nick Barnes
 [[arXiv](https://arxiv.org/abs/1911.12885)][[project page](https://github.com/ShiQiu0419/GFNet)] 
 
 ## Education Background
-* **BEng** in Electronic and Information Engineering  
-**Dalian University of Technology**, China (2010-2015)
+* **PhD** in Engineering and Computer Science  
+**The Australian National University**, Australia (2019-Now)  
 * **MSc** in ICT Innovation (Digital Media Technology)  
 **KTH Royal Institute of Technology**, Sweden (2015-2016)  
 **University College London**, UK (2016-2017)  
-Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/) and [Prof. Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/)
-* **PhD** in Engineering and Computer Science  
-**The Australian National University**, Australia (2019-Now)
+Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/) and [Prof. Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/)  
+* **BEng** in Electronic and Information Engineering  
+**Dalian University of Technology**, China (2010-2015)
 
 ## Work Experience
 * **Research Engineer** in Computer Vision  
