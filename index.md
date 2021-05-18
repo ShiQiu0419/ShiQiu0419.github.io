@@ -48,7 +48,7 @@ ENGN4528 Computer Vision
 
 ## Misc
 * I am a national 2nd-level athlete (China) specializing in Tennis.
-* I have completed 10+ marathons in Dalian/Stockholm/Rotterdam/Edinburgh/Canberra, etc. My pb on half-marathon is about 1h 44min, and 4h 10min for the full-marathon.
+* I have completed 10+ marathons.
 * I like football, cooking, music, etc.
 
 ## Contact
