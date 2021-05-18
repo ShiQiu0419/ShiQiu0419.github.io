@@ -47,7 +47,7 @@ ENGN4528 Computer Vision
 * Currently working on point clouds related topics.
 
 ## Misc
-* I am a national 2nd-level athlete (China) specializing in Tennis.
+* I am a national 2nd-level athlete (China) in Tennis.
 * I have completed 10+ marathons.
 * I like football, cooking, music, etc.
 
