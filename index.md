@@ -24,7 +24,7 @@ IEEE Transactions on Multimedia (**TMM**), 2021
 ## Education Background
 * **PhD** in Engineering and Computer Science  
 **The Australian National University**, Australia (2019-Now)  
-* **MSc** in ICT Innovation (Digital Media Technology)  
+* **MSc** in ICT Innovation (Digital Media Technology) with **Distinction** 
 **University College London**, UK (2016-2017)  
 Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/) and [Prof. Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/)  
 **KTH Royal Institute of Technology**, Sweden (2015-2016)   
