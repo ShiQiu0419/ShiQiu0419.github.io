@@ -48,7 +48,7 @@ ENGN4528 Computer Vision
 
 ## Misc
 * I am a national 2nd-level athlete (China) in Tennis.
-* I have completed 10+ marathons.
+* I have completed 10+ full/half marathons.
 * I like football, cooking, music, etc.
 
 ## Contact
