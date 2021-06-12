@@ -11,7 +11,7 @@ Hi, I am Shi QIU (邱实), a 3rd year PhD candidate at ANU College of Engineerin
 * **Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021  
-[[arXiv](https://arxiv.org/abs/2103.07074)][[project page](https://github.com/ShiQiu0419/BAAF-Net)]
+[[arXiv](https://arxiv.org/abs/2103.07074)][[CVF](https://openaccess.thecvf.com/content/CVPR2021/papers/Qiu_Semantic_Segmentation_for_Real_Point_Cloud_Scenes_via_Bilateral_Augmentation_CVPR_2021_paper.pdf)][[supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Qiu_Semantic_Segmentation_for_CVPR_2021_supplemental.pdf)][[project page](https://github.com/ShiQiu0419/BAAF-Net)]
 * **Dense-Resolution Network for Point Cloud Classification and Segmentation**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2021  
