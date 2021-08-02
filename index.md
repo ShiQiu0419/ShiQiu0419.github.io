@@ -8,6 +8,10 @@ layout: default
 Hi, I am Shi QIU (邱实), a 3rd year PhD candidate at ANU College of Engineering & Computer Science and Data61-CSIRO. I am closely working with [Dr. Saeed Anwar](https://saeed-anwar.github.io/) (Data61, CSIRO) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) (ANU), and associated with [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/index.html) (ANU).
 
 ## Publications
+* **Investigating Attention Mechanism in 3D Point Cloud Object Detection**   
+<ins>Shi Qiu</ins>, Yunfan Wu, Saeed Anwar, Chongyi Li  
+arXiv, 2021  
+[arXiv][project page] 
 * **Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021  
