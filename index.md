@@ -10,7 +10,7 @@ Hi, I am Shi QIU (邱实), a 3rd year PhD candidate at ANU College of Engineerin
 ## Publications
 * **Investigating Attention Mechanism in 3D Point Cloud Object Detection**   
 <ins>Shi Qiu</ins>, Yunfan Wu, Saeed Anwar, Chongyi Li    
-[arXiv][project page] 
+[arXiv](https://arxiv.org/abs/2108.00620)[project page](https://github.com/ShiQiu0419/attentions_in_3D_detection)  
 * **Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021  
