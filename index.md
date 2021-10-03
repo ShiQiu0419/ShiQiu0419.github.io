@@ -14,7 +14,7 @@ arXiv pre-print, 2021
 [[arXiv](https://arxiv.org/abs/2108.07378)][[project page](https://github.com/ShiQiu0419/pnp-3d)]  
 * **Investigating Attention Mechanism in 3D Point Cloud Object Detection**   
 <ins>Shi Qiu</ins>\*, Yunfan Wu\*, Saeed Anwar, Chongyi Li  
-arXiv pre-print, 2021  
+International Conference on 3D Vision (**3DV**), 2021  
 [[arXiv](https://arxiv.org/abs/2108.00620)][[project page](https://github.com/ShiQiu0419/attentions_in_3D_detection)]  
 * **Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
