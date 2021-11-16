@@ -56,7 +56,7 @@ ENGN4528 Computer Vision
 
 ## Services
 * Conference Reviewer: CVPR, AAAI, WACV
-* Journal Reviewer: Signal, Image and Video Processing (Springer)
+* Journal Reviewer: SIVP (Springer)
 
 ## Misc
 * I am a national 2nd-level athlete (China) in Tennis.
