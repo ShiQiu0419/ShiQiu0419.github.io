@@ -10,8 +10,7 @@ Hi, I am Shi QIU (邱实), a 3rd year PhD candidate at ANU College of Engineerin
 ## Publications
 * **PU-Transformer: Point Cloud Upsampling Transformer**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
-arXiv pre-print, 2021  
-[arXiv][project page]    
+arXiv pre-print, 2021     
 * **PnP-3D: A Plug-and-Play for 3D Point Clouds**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 arXiv pre-print, 2021  
