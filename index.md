@@ -9,7 +9,7 @@ Hi, I am Shi QIU (邱实), a 3rd year PhD candidate at ANU College of Engineerin
 
 ## Publications   
 * **PnP-3D: A Plug-and-Play for 3D Point Clouds**   
-<ins>Shi Qiiiiiu</ins>, Saeed Anwar, Nick Barnes  
+<ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 arXiv pre-print, 2021  
 [[arXiv](https://arxiv.org/abs/2108.07378)][[project page](https://github.com/ShiQiu0419/pnp-3d)]  
 * **Investigating Attention Mechanism in 3D Point Cloud Object Detection**   
