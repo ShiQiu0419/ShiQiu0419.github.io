@@ -19,7 +19,7 @@ International Conference on 3D Vision (**3DV**), 2021
 * **Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021  
-[[arXiv](https://arxiv.org/abs/2103.07074)][[CVF](https://openaccess.thecvf.com/content/CVPR2021/papers/Qiu_Semantic_Segmentation_for_Real_Point_Cloud_Scenes_via_Bilateral_Augmentation_CVPR_2021_paper.pdf)][[supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Qiu_Semantic_Segmentation_for_CVPR_2021_supplemental.pdf)][[poster](https://github.com/ShiQiu0419/BAAF-Net/blob/main/cvpr2021_poster.pdf)][[project page](https://github.com/ShiQiu0419/BAAF-Net)]
+[[arXiv](https://arxiv.org/abs/2103.07074)][[IEEE](https://ieeexplore.ieee.org/document/9577557)][[CVF](https://openaccess.thecvf.com/content/CVPR2021/papers/Qiu_Semantic_Segmentation_for_Real_Point_Cloud_Scenes_via_Bilateral_Augmentation_CVPR_2021_paper.pdf)][[supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Qiu_Semantic_Segmentation_for_CVPR_2021_supplemental.pdf)][[poster](https://github.com/ShiQiu0419/BAAF-Net/blob/main/cvpr2021_poster.pdf)][[project page](https://github.com/ShiQiu0419/BAAF-Net)]
 * **Dense-Resolution Network for Point Cloud Classification and Segmentation**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2021  
