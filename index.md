@@ -8,6 +8,10 @@ layout: default
 Hi, I am Shi QIU (邱实), a 3rd year PhD candidate at ANU College of Engineering & Computer Science and Data61-CSIRO. I am closely working with [Dr. Saeed Anwar](https://saeed-anwar.github.io/) (Data61, CSIRO) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) (ANU), and associated with [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/index.html) (ANU).
 
 ## Publications   
+* **PU-Transformer: Point Cloud Upsampling Transformer**   
+<ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
+arXiv pre-print, 2021  
+[[arXiv](https://arxiv.org/abs/2111.12242)][[codes coming soon](https://shiqiu0419.github.io/)]  
 * **PnP-3D: A Plug-and-Play for 3D Point Clouds**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 arXiv pre-print, 2021  
