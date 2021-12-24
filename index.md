@@ -15,8 +15,8 @@ arXiv pre-print, 2021
 * **PnP-3D: A Plug-and-Play for 3D Point Clouds**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 IEEE Transactions on Pattern Analysis and Machine Intelligence  
-(*Accepted in* **TPAMI**), 2021  
-[[arXiv](https://arxiv.org/abs/2108.07378)][[project page](https://github.com/ShiQiu0419/pnp-3d)]  
+(**TPAMI**), 2021  
+[[arXiv](https://arxiv.org/abs/2108.07378)][[ieee](https://ieeexplore.ieee.org/document/9661313)][[project page](https://github.com/ShiQiu0419/pnp-3d)]  
 * **Investigating Attention Mechanism in 3D Point Cloud Object Detection**   
 <ins>Shi Qiu</ins>\*, Yunfan Wu\*, Saeed Anwar, Chongyi Li  
 International Conference on 3D Vision (**3DV**), 2021  
