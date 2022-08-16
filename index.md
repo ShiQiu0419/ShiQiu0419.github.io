@@ -46,13 +46,13 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 
 ## Work Experience
 * **Research Intern**  
-**Tencent's XR Vision Labs**, Canberra, Australia (2022.8-Now) 
+**Tencent's XR Vision Labs**, Canberra, Australia 
 * **Teaching Assistant**  
 COMP6670 Introduction to Machine Learning  
 ENGN4528 Computer Vision  
-**ANU CECS**, Canberra, Australia (2020-Now)  
+**ANU CECS**, Canberra, Australia 
 * **Research PhD Student**  
-**Data61 CSIRO**, Canberra, Australia (2019-Now)   
+**Data61 CSIRO**, Canberra, Australia  
 * **Research Engineer** in Computer Vision  
 **Vivo AI Lab**, Shenzhen, China (2018-2019)
 
