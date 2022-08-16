@@ -45,6 +45,8 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 **Dalian University of Technology**, China (2010-2015)
 
 ## Work Experience
+* **Research Intern**  
+**Tencent's XR Vision Labs**, Canberra, Australia (2022.8-Now) 
 * **Teaching Assistant**  
 COMP6670 Introduction to Machine Learning  
 ENGN4528 Computer Vision  
