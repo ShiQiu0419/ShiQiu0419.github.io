@@ -10,7 +10,7 @@ Hi, I am Shi QIU (邱实), a PhD candidate at ANU College of Engineering & Compu
 ## Publications    
 * **PU-Transformer: Point Cloud Upsampling Transformer**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
-*To appear in*, Asian Conference on Computer Vision (**ACCV**), 2022  
+Asian Conference on Computer Vision (**ACCV** *accepted*), 2022  
 [[arXiv](https://arxiv.org/abs/2111.12242)][[codes coming soon](https://shiqiu0419.github.io/)]  
 * **PnP-3D: A Plug-and-Play for 3D Point Clouds**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
