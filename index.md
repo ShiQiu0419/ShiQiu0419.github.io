@@ -10,7 +10,8 @@ Hi, I am Shi QIU (邱实), a PhD candidate at ANU College of Engineering & Compu
 ## Publications    
 * **Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion**   
 Ruikai Cui, <ins>Shi Qiu</ins>, Saeed Anwar, Jing Zhang, Nick Barnes  
-British Machine Vision Conference (**BMVC** *accepted*), 2022  
+British Machine Vision Conference (**BMVC** *accepted*), 2022 
+[[paper coming soon](https://shiqiu0419.github.io/)] 
 * **PU-Transformer: Point Cloud Upsampling Transformer**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 Asian Conference on Computer Vision (**ACCV** *accepted*), 2022  
