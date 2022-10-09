@@ -7,11 +7,7 @@ layout: default
 
 Hi, I am Shi QIU (邱实), a PhD candidate at ANU College of Engineering & Computer Science and Data61-CSIRO. I am closely working with [Dr. Saeed Anwar](https://saeed-anwar.github.io/) (Data61, CSIRO) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) (ANU), and associated with [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/index.html) (ANU).
 
-## Publications    
-* **Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion**   
-Ruikai Cui, <ins>Shi Qiu</ins>, Saeed Anwar, Jing Zhang, Nick Barnes  
-British Machine Vision Conference (**BMVC** *accepted*), 2022  
-[[paper coming soon](https://shiqiu0419.github.io/)] 
+## First-authored Publications    
 * **PU-Transformer: Point Cloud Upsampling Transformer**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 Asian Conference on Computer Vision (**ACCV**), 2022  
@@ -37,6 +33,12 @@ IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2021
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 IEEE Transactions on Multimedia (**TMM**), 2021  
 [[arXiv](https://arxiv.org/abs/1911.12885)][[IEEE](https://ieeexplore.ieee.org/document/9410405)][[project page](https://github.com/ShiQiu0419/GFNet)] 
+
+## Co-authored Publications    
+* **Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion**   
+Ruikai Cui, <ins>Shi Qiu</ins>, Saeed Anwar, Jing Zhang, Nick Barnes  
+British Machine Vision Conference (**BMVC** *accepted*), 2022  
+[[paper coming soon](https://shiqiu0419.github.io/)] 
 
 ## Education Background
 * **PhD** in Engineering and Computer Science  
