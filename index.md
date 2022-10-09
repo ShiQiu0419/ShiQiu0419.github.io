@@ -74,7 +74,7 @@ ENGN4528 Computer Vision
 * Currently working on point clouds related topics.
 
 ## Services
-* Conference Reviewer: CVPR, ECCV, AAAI, WACV, ACCV, BMVC, ISMAR
+* Conference Reviewer: CVPR, ECCV, AAAI, WACV, ACCV, ISMAR
 * Journal Reviewer: TVCG, TITS, RA-L, Neurocomputing, MVAP, SIVP
 
 ## Misc
