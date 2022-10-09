@@ -50,7 +50,9 @@ IEEE Transactions on Multimedia (**TMM**), 2021
 * **MSc** in ICT Innovation (Digital Media Technology) with **Distinction**  
 **University College London**, UK (2016-2017)  
 Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/) and [Prof. Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/)  
-**KTH Royal Institute of Technology**, Sweden (2015-2016)   
+**KTH Royal Institute of Technology**, Sweden (2015-2016)
+* **Minor Degree** in Entrepreneurship  
+**EIT Digital Master School**, EU (2015-2017) 
 * **BEng** in Electronic and Information Engineering  
 **Dalian University of Technology**, China (2010-2015)
 
