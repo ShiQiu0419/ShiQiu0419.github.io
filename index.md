@@ -11,6 +11,7 @@ I am Shi QIU (邱实), a final year PhD student at ANU College of Engineering & 
 * One paper accepted in BMVC 2022. (09/2022) 
 * One paper accepted in ACCV 2022. (09/2022) 
 * Joined **Tencent's XR Vision Labs** as a research intern. (08/2022)
+* Updating since 06/2022.
 
 ## Publications    
 * **Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion**   
