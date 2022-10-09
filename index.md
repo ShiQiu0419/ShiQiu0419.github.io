@@ -7,6 +7,11 @@ layout: default
 
 Hi, I am Shi QIU (邱实), a PhD candidate at ANU College of Engineering & Computer Science and Data61-CSIRO. I am closely working with [Dr. Saeed Anwar](https://saeed-anwar.github.io/) (Data61, CSIRO) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) (ANU), and associated with [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/index.html) (ANU).
 
+## News
+* One paper accepted in BMVC 2022. (09/2022) 
+* One paper accepted in ACCV 2022. (09/2022) 
+* I joined **Tencent's XR Vision Labs** as a research intern working on 3D reconstruction for XR applications. (08/2022)
+
 ## Publications    
 * **Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion**   
 Ruikai Cui, <ins>Shi Qiu</ins>, Saeed Anwar, Jing Zhang, Nick Barnes  
