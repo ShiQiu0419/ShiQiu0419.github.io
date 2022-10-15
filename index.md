@@ -8,8 +8,8 @@ layout: default
 I am Shi QIU (邱实), a final year PhD student at ANU College of Engineering & Computer Science and Data61-CSIRO. I am closely working with [Dr. Saeed Anwar](https://saeed-anwar.github.io/) (Data61, CSIRO) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) (ANU), and associated with [Prof. Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/) and [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/index.html).
 
 ## News
-* One paper accepted in BMVC 2022. (09/2022) 
-* One paper accepted in ACCV 2022. (09/2022) 
+* One paper accepted in BMVC'2022. (09/2022) 
+* One paper accepted in ACCV'2022. (09/2022) 
 * Joined **Tencent's XR Vision Labs** as a research intern. (08/2022)
 * Updating since 06/2022.
 
