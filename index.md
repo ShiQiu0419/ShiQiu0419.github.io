@@ -73,7 +73,7 @@ ENGN4528 Computer Vision
 * 3D VR/AR, etc.  
 * Currently working on point clouds related topics.
 
-## Review Services
+## Reviewer Services
 * CV Conferences: CVPR, ECCV, WACV, ACCV
 * CV Journals: Neurocomputing, MVAP, SIVP
 * Graphics Conferences: ISMAR
