@@ -73,9 +73,15 @@ ENGN4528 Computer Vision
 * 3D VR/AR, etc.  
 * Currently working on point clouds related topics.
 
-## Services
-* Conference Reviewer: CVPR, ECCV, AAAI, WACV, ACCV, ISMAR
-* Journal Reviewer: TVCG, TITS, RA-L, Neurocomputing, ISPRS, TVCJ, MVAP, SIVP
+## Review Services
+* CV Conferences: CVPR, ECCV, WACV, ACCV
+* CV Journals: Neurocomputing, MVAP, SIVP
+* Graphics Conferences: ISMAR
+* Graphics Journals: TVCG, TVCJ
+* Robotics Journals: RA-L, TITS
+* AI Conferences: AAAI
+* AI Journals: Neurocomputing
+* Remote-sensing Journals: ISPRS
 
 ## Misc
 * I am a national 2nd-level athlete (China) in Tennis.
