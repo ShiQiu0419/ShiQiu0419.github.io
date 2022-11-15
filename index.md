@@ -17,11 +17,11 @@ I am Shi QIU (邱实), a final year PhD student at ANU College of Engineering & 
 * **Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion**   
 Ruikai Cui, <ins>Shi Qiu</ins>, Saeed Anwar, Jing Zhang, Nick Barnes  
 British Machine Vision Conference (**BMVC**), 2022  
-[[arxiv](https://arxiv.org/abs/2211.06820)][[poster](https://github.com/ShiQiu0419/PU-Transformer/blob/main/accv2022_poster.pdf)][[project page](https://github.com/CuiRuikai/Latent-Transport-UPCN)]  
+[[arxiv](https://arxiv.org/abs/2211.06820)][[project page](https://github.com/CuiRuikai/Latent-Transport-UPCN)]  
 * **PU-Transformer: Point Cloud Upsampling Transformer**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 Asian Conference on Computer Vision (**ACCV**), 2022  
-[[arXiv](https://arxiv.org/abs/2111.12242)][[project page](https://github.com/ShiQiu0419/PU-Transformer)]  
+[[arXiv](https://arxiv.org/abs/2111.12242)][[poster](https://github.com/ShiQiu0419/PU-Transformer/blob/main/accv2022_poster.pdf)][[project page](https://github.com/ShiQiu0419/PU-Transformer)]  
 * **PnP-3D: A Plug-and-Play for 3D Point Clouds**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 IEEE Transactions on Pattern Analysis and Machine Intelligence  
