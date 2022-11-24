@@ -21,7 +21,7 @@ British Machine Vision Conference (**BMVC**), 2022
 * **PU-Transformer: Point Cloud Upsampling Transformer**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 Asian Conference on Computer Vision (**ACCV**), 2022  
-[[arXiv](https://arxiv.org/abs/2111.12242)][[cvf](https://openaccess.thecvf.com/content/ACCV2022/papers/Qiu_PU-Transformer_Point_Cloud_Upsampling_Transformer_ACCV_2022_paper.pdf)][[supp](https://openaccess.thecvf.com/content/ACCV2022/supplemental/Qiu_PU-Transformer_Point_Cloud_ACCV_2022_supplemental.pdf)][[poster](https://github.com/ShiQiu0419/PU-Transformer/blob/main/accv2022_poster.pdf)][[project page](https://github.com/ShiQiu0419/PU-Transformer)]  
+[[arXiv](https://arxiv.org/abs/2111.12242)][[CVF](https://openaccess.thecvf.com/content/ACCV2022/papers/Qiu_PU-Transformer_Point_Cloud_Upsampling_Transformer_ACCV_2022_paper.pdf)][[supp](https://openaccess.thecvf.com/content/ACCV2022/supplemental/Qiu_PU-Transformer_Point_Cloud_ACCV_2022_supplemental.pdf)][[poster](https://github.com/ShiQiu0419/PU-Transformer/blob/main/accv2022_poster.pdf)][[project page](https://github.com/ShiQiu0419/PU-Transformer)]  
 * **PnP-3D: A Plug-and-Play for 3D Point Clouds**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 IEEE Transactions on Pattern Analysis and Machine Intelligence  
