@@ -17,7 +17,7 @@ I am Shi QIU (邱实), a final year PhD student at ANU College of Engineering & 
 * **Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion**   
 Ruikai Cui, <ins>Shi Qiu</ins>, Saeed Anwar, Jing Zhang, Nick Barnes  
 British Machine Vision Conference (**BMVC**), 2022  
-[[arxiv](https://arxiv.org/abs/2211.06820)][[BMVC](https://bmvc2022.mpi-inf.mpg.de/0048.pdf)][[supp](https://bmvc2022.mpi-inf.mpg.de/0048_supp.zip)][[poster](https://bmvc2022.mpi-inf.mpg.de/0048_poster.pdf)][[video]([video](https://bmvc2022.mpi-inf.mpg.de/0048_video.mp4))][[project page](https://github.com/CuiRuikai/Latent-Transport-UPCN)]  
+[[arxiv](https://arxiv.org/abs/2211.06820)][[BMVC](https://bmvc2022.mpi-inf.mpg.de/0048.pdf)][[supp](https://bmvc2022.mpi-inf.mpg.de/0048_supp.zip)][[poster](https://bmvc2022.mpi-inf.mpg.de/0048_poster.pdf)][[video](https://bmvc2022.mpi-inf.mpg.de/0048_video.mp4)][[project page](https://github.com/CuiRuikai/Latent-Transport-UPCN)]  
 * **PU-Transformer: Point Cloud Upsampling Transformer**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 Asian Conference on Computer Vision (**ACCV**), 2022  
