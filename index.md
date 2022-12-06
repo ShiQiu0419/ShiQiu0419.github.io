@@ -14,6 +14,10 @@ I am Shi QIU (邱实), a final year PhD student at ANU College of Engineering & 
 * Updating since 06/2022.
 
 ## Publications    
+* **PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis**   
+Jie Hong\*, <ins>Shi Qiu</ins>\*, Weihao Li, Saeed Anwar, Mehrtash Harandi, Nick Barnes, Lars Petersson 
+arxiv, 2022  
+[[arXiv](https://arxiv.org/abs/2212.02011)][[project page](https://github.com/ShiQiu0419/pointcam)]  
 * **Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion**   
 Ruikai Cui, <ins>Shi Qiu</ins>, Saeed Anwar, Jing Zhang, Nick Barnes  
 British Machine Vision Conference (**BMVC**), 2022  
