@@ -82,7 +82,7 @@ ENGN4528 Computer Vision
 * CV Journals: Neurocomputing, MVAP, SIVP
 * Graphics Conferences: ISMAR
 * Graphics Journals: TVCG, TVCJ
-* Robotics Journals: RA-L, T-ITS
+* Robotics Journals: RA-L, T-ITS, T-IV
 * AI Conferences: AAAI
 * AI Journals: Neurocomputing
 * Remote-sensing Journals: ISPRS
