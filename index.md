@@ -79,7 +79,7 @@ ENGN4528 Computer Vision
 
 ## Reviewer Services
 * CV Conferences: CVPR, ECCV, WACV, ACCV
-* CV Journals: Neurocomputing, MVAP, SIVP
+* CV Journals: MVAP, SIVP
 * Graphics Conferences: ISMAR
 * Graphics Journals: TVCG, TVCJ
 * Robotics Journals: RA-L, T-ITS, T-IV
