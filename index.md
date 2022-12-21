@@ -9,7 +9,7 @@ I am Shi QIU (邱实), a final year PhD student at ANU College of Engineering & 
 
 ## News
 * Submitted PhD thesis. (12/2022) 
-* Completed PhD oral presentation (([slides](https://drive.google.com/file/d/1s5WA7QUt-KPXTKrVfX8OfKB_EPONPWlh/view?usp=sharing))). (12/2022)
+* Completed PhD oral presentation ([slides](https://drive.google.com/file/d/1s5WA7QUt-KPXTKrVfX8OfKB_EPONPWlh/view?usp=sharing)). (12/2022)
 * One paper accepted in BMVC. (09/2022) 
 * One paper accepted in ACCV. (09/2022) 
 * Joined **Tencent's XR Vision Labs** as a research intern. (08/2022)
