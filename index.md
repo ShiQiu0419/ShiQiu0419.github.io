@@ -80,7 +80,7 @@ ENGN4528 Computer Vision
 * Currently working on point clouds related topics.
 
 ## Reviewer Services
-* CV Conferences: CVPR, ECCV, WACV, ACCV
+* CV Conferences: CVPR, ICCV, ECCV, ACCV, WACV
 * CV Journals: PR, TCSVT, MVAP, SIVP
 * Graphics Conferences: ISMAR
 * Graphics Journals: TVCG, TVCJ
