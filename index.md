@@ -82,13 +82,11 @@ ENGN4528 Computer Vision
 
 ## Reviewer Services
 * CV Conferences: CVPR, ICCV, ECCV, ACCV, WACV
-* CV Journals: PR, TCSVT, MVAP, SIVP
+* CV Journals: PR, TCSVT, Neurocomputing, MVAP, SIVP
 * Graphics Conferences: ISMAR
 * Graphics Journals: TVCG, TVCJ
 * Robotics Journals: RA-L, T-ITS, T-IV
-* AI Conferences: AAAI
-* AI Journals: Neurocomputing
-* Remote-sensing Journals: ISPRS
+* Other AI Venues: AAAI, MICCAI, ISPRS
 
 ## Misc
 * I am a national 2nd-level athlete (China) in Tennis.
