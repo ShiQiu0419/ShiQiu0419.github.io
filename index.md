@@ -5,12 +5,11 @@ layout: default
 ## About Me
 <img class="profile-picture" src="me.jpg">
 
-I am Shi QIU (邱实), a PhD candidate (submitted) at ANU College of Engineering & Computer Science and Data61-CSIRO. I am closely working with [Dr. Saeed Anwar](https://saeed-anwar.github.io/) (Data61, CSIRO) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) (ANU), and associated with [Prof. Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/) and [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/index.html).
+I am Shi QIU (邱实), a PhD candidate (submitted) at ANU College of Engineering & Computer Science and Data61-CSIRO. I am closely working with [Dr. Saeed Anwar](https://saeed-anwar.github.io/) (Data61, CSIRO) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) (ANU), and associated with [Prof. Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/) and [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/index.html). I will be joining the Department of Computer Science and Engineering at The Chinese University of Hong Kong as a Research Assistant Professor in Fall 2023.
 
 ## News
 * One paper accepted in ICCV. Congrats to Ruikai! (07/2023) 
 * A survey of LLMs is available on [arXiv](https://arxiv.org/abs/2307.06435). (07/2023)
-* I will be joining the Department of Computer Science and Engineering at The Chinese University of Hong Kong as a Research Assistant Professor in Fall 2023. (06/2023)
 * Qualified for HDR (MPhil, PhD) Supervisor at ANU. (04/2023)
 * Delivered a [seminar](https://www.cse.cuhk.edu.hk/upcoming-events/learning-deep-feature-representations-of-3d-point-cloud-data/) at CUHK CSE, HKSAR. (02/2023)
 * Submitted PhD thesis. (12/2022) 
