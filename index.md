@@ -22,6 +22,14 @@ I will be joining the Department of Computer Science and Engineering at The Chin
 * Updating since 06/2022.
 
 ## Publications    
+* **P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds**
+Ruikai Cui, <ins>Shi Qiu</ins>, Saeed Anwar, Jiawei Liu, Chaoyue Xing, Jing Zhang, Nick Barnes  
+IEEE International Conference on Computer Vision (**ICCV**), 2023  
+[[paper coming soon](https://shiqiu0419.github.io/)]
+* **A Comprehensive Overview of Large Language Models**
+Humza Naveed, Asad Ullah Khan\*, <ins>Shi Qiu</ins>\*, Muhammad Saqib\*, Saeed Anwar, Muhammad Usman, Nick Barnes, Ajmal Mian  
+arxiv, 2023  
+[[arXiv](https://arxiv.org/abs/2307.06435)][[project page](https://github.com/humza909/LLM_Survey)] 
 * **PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis**   
 Jie Hong\*, <ins>Shi Qiu</ins>\*, Weihao Li, Saeed Anwar, Mehrtash Harandi, Nick Barnes, Lars Petersson  
 arxiv, 2022  
