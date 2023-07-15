@@ -18,7 +18,7 @@ I will be joining the Department of Computer Science and Engineering at The Chin
 * Completed PhD [oral presentation](https://drive.google.com/file/d/1s5WA7QUt-KPXTKrVfX8OfKB_EPONPWlh/view?usp=sharing). (12/2022)
 * One paper accepted in BMVC. (09/2022) 
 * One paper accepted in ACCV. (09/2022) 
-* Joined **Tencent's XR Vision Labs** as a research intern. (08/2022)
+* Joined Tencent's XR Vision Labs as a research intern. (08/2022)
 * Updating since 06/2022.
 
 ## Publications    
