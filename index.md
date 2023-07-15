@@ -26,7 +26,7 @@ I will be joining the Department of Computer Science and Engineering at The Chin
 Ruikai Cui, <ins>Shi Qiu</ins>, Saeed Anwar, Jiawei Liu, Chaoyue Xing,  
 Jing Zhang, Nick Barnes  
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
-[[paper coming soon](https://shiqiu0419.github.io/)]
+[[paper coming soon](https://shiqiu0419.github.io/)][[project page](https://github.com/CuiRuikai/Partial2Complete)]
 * **A Comprehensive Overview of Large Language Models**  
 Humza Naveed, Asad Ullah Khan\*, <ins>Shi Qiu</ins>\*, Muhammad Saqib\*, Saeed Anwar, Muhammad Usman, Nick Barnes, Ajmal Mian  
 arxiv, 2023  
