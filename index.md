@@ -27,12 +27,11 @@ R. Cui, <ins>S. Qiu</ins>, S. Anwar, J. Liu, C. Xing, J. Zhang, N. Barnes
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
 [[paper coming soon](https://shiqiu0419.github.io/)][[project page](https://github.com/CuiRuikai/Partial2Complete)]
 * **A Comprehensive Overview of Large Language Models**  
-Humza Naveed, Asad Ullah Khan\*, <ins>Shi Qiu</ins>\*, Muhammad Saqib\*, Saeed Anwar, Muhammad Usman, Nick Barnes, Ajmal Mian  
+H. Naveed, A. U. Khan\*, <ins>S. Qiu</ins>\*, M. Saqib\*, S. Anwar, M. Usman, N. Barnes, A. Mian  
 arxiv, 2023  
 [[arXiv](https://arxiv.org/abs/2307.06435)][[project page](https://github.com/humza909/LLM_Survey)] 
 * **PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis**   
-Jie Hong\*, <ins>Shi Qiu</ins>\*, Weihao Li, Saeed Anwar, Mehrtash Harandi,  
-Nick Barnes, Lars Petersson  
+J. Hong\*, <ins>S. Qiu</ins>\*, W. Li, S. Anwar, M. Harandi, N. Barnes, L. Petersson  
 arxiv, 2022  
 [[arXiv](https://arxiv.org/abs/2212.02011)][[project page](https://github.com/ShiQiu0419/pointcam)]  
 * **Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion**   
