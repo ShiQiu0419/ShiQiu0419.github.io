@@ -21,7 +21,7 @@ I will be joining the Department of Computer Science and Engineering at The Chin
 * Joined Tencent's XR Vision Labs as a research intern. (08/2022)
 * Updating since 06/2022.
 
-## Publications    
+## Publications (\*: equal contribution, \#: corresponding author)    
 * **P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds**  
 R. Cui, <ins>S. Qiu</ins>, S. Anwar, J. Liu, C. Xing, J. Zhang, N. Barnes  
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
