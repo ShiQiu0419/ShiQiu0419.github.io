@@ -23,11 +23,11 @@ I will be joining the Department of Computer Science and Engineering at The Chin
 
 ## Publications     
 * **P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds**  
-R. Cui, <ins>S. Qiu</ins>\#, S. Anwar, J. Liu, C. Xing, J. Zhang, N. Barnes  
+R. Cui, <ins>S. Qiu</ins>, S. Anwar, J. Liu, C. Xing, J. Zhang, N. Barnes  
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
 [[paper coming soon](https://shiqiu0419.github.io/)][[project page](https://github.com/CuiRuikai/Partial2Complete)]
 * **A Comprehensive Overview of Large Language Models**  
-H. Naveed, A. Khan\*, <ins>S. Qiu</ins>\*, M. Saqib\*, S. Anwar, M. Usman, N. Barnes, A. Mian  
+Naveed, Khan\*, <ins>Qiu</ins>\*, Saqib\*, Anwar, Usman, Barnes, Mian  
 arxiv, 2023  
 [[arXiv](https://arxiv.org/abs/2307.06435)][[project page](https://github.com/humza909/LLM_Survey)] 
 * **PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis**   
@@ -63,8 +63,6 @@ IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2021
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 IEEE Transactions on Multimedia (**TMM**), 2021  
 [[arXiv](https://arxiv.org/abs/1911.12885)][[IEEE](https://ieeexplore.ieee.org/document/9410405)][[project page](https://github.com/ShiQiu0419/GFNet)]
-
-*(\*: equal contribution, \#: corresponding author)*
 
 ## Education Background
 * **PhD** in Engineering and Computer Science  
