@@ -23,8 +23,7 @@ I will be joining the Department of Computer Science and Engineering at The Chin
 
 ## Publications    
 * **P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds**  
-Ruikai Cui, <ins>Shi Qiu</ins>, Saeed Anwar, Jiawei Liu, Chaoyue Xing,  
-Jing Zhang, Nick Barnes  
+R. Cui, <ins>S. Qiu</ins>, S. Anwar, J. Liu, C. Xing, J. Zhang, N. Barnes  
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
 [[paper coming soon](https://shiqiu0419.github.io/)][[project page](https://github.com/CuiRuikai/Partial2Complete)]
 * **A Comprehensive Overview of Large Language Models**  
