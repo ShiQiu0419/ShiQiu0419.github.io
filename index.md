@@ -22,7 +22,7 @@ I will be joining the Department of Computer Science and Engineering at The Chin
 * Updating since 06/2022.
 
 ## Publications   
-Links: [Google Scholar Profile](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [Semantic Scholar Profile](https://www.semanticscholar.org/author/Shi-Qiu/2055117257)
+Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Shi-Qiu/2055117257)
 * **P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds**  
 R. Cui, <ins>S. Qiu</ins>, S. Anwar, J. Liu, C. Xing, J. Zhang, N. Barnes  
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
