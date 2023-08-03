@@ -10,7 +10,7 @@ I am Shi QIU (邱实), a PhD candidate (submitted) at ANU College of Engineering
 I will be joining the Department of Computer Science and Engineering at The Chinese University of Hong Kong as a Research Assistant Professor in Fall 2023.
 
 ## News
-* My PhD thesis is available on [ANU Library](https://openresearch-repository.anu.edu.au/handle/1885/294551). (08/2023)
+* My PhD thesis is available on the [ANU Open Research repository](https://openresearch-repository.anu.edu.au/handle/1885/294551). (08/2023)
 * One paper accepted in ICCV. Congrats to Ruikai! (07/2023) 
 * A survey of LLMs is available on [arXiv](https://arxiv.org/abs/2307.06435). (07/2023)
 * Qualified for HDR (MPhil, PhD) Supervisor at ANU. (04/2023)
