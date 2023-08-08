@@ -5,7 +5,7 @@ layout: default
 ## About Me
 <img class="profile-picture" src="me.jpg">
 
-I am Shi QIU (邱实), who completed a PhD degree at ANU College of Engineering & Computer Science and Data61-CSIRO. During my PhD, I was closely working with [Dr. Saeed Anwar](https://saeed-anwar.github.io/) (Data61, CSIRO) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) (ANU), and associated with [Prof. Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/) and [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/index.html). 
+I am Shi QIU (邱实). Previously, I completed a PhD degree at ANU College of Engineering, Computing & Cybernetics. During the PhD study, I was closely working with [Dr. Saeed Anwar](https://saeed-anwar.github.io/) (Data61, CSIRO) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) (ANU), and associated with [Prof. Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/) and [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/index.html). 
 
 I will be joining the Department of Computer Science and Engineering at The Chinese University of Hong Kong as a Research Assistant Professor in Fall 2023.
 
