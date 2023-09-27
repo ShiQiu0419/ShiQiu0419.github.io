@@ -5,7 +5,7 @@ layout: default
 ## About Me
 <img class="profile-picture" src="me.jpg">
 
-I am Shi QIU (邱实). Currently, I am working as a Research Assistant Professor at the Department of Computer Science and Engineering, the Chinese University of Hong Kong (CUHK). I am also affiliated with CUHK's Institute of Medical Intelligence and XR, led by [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/). Previously, I obtained my PhD degree from ANU (affiliated with Data61-CSIRO), under the supervision of [Dr. Saeed Anwar](https://saeed-anwar.github.io/) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/). 
+I am Shi QIU (邱实). Currently, I am working as a Research Assistant Professor at the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/), the Chinese University of Hong Kong (CUHK). I am also affiliated with CUHK's Institute of Medical Intelligence and XR, led by [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/). Previously, I obtained my PhD degree from ANU (with Data61-CSIRO), under the supervision of [Dr. Saeed Anwar](https://saeed-anwar.github.io/) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/). 
 
 My current research focuses on 3D vision and Extended Reality (XR), especially for their applications in medical study. 
 
@@ -92,8 +92,9 @@ ENGN4528 Computer Vision
 
 ## Research Interest
 * 3D Computer Vision
-* 3D VR/AR, etc.  
-* Currently working on point clouds related topics.
+* 3D VR/AR
+* Medical XR  
+* Previously worked on point clouds related topics.
 
 ## Reviewer Services
 * CV Conferences: CVPR, ICCV, ECCV, ACCV, WACV
