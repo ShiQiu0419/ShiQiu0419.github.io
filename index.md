@@ -5,9 +5,9 @@ layout: default
 ## About Me
 <img class="profile-picture" src="me.jpg">
 
-I am Shi QIU (邱实). Previously, I completed my PhD at ANU College of Engineering, Computing & Cybernetics and Data61-CSIRO. During my PhD, I was closely working with [Dr. Saeed Anwar](https://saeed-anwar.github.io/) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/), and associated with [Prof. Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/) and [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/index.html). 
+I am Shi QIU (邱实). Currently, I am working as a Research Assistant Professor at the Department of Computer Science and Engineering, the Chinese University of Hong Kong (CUHK). I am also affiliated with CUHK's Institute of Medical Intelligence and XR, led by [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/). Previously, I obtained my PhD degree from ANU (affiliated with Data61-CSIRO), under the supervision of [Dr. Saeed Anwar](https://saeed-anwar.github.io/) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/). 
 
-I will be joining the Department of Computer Science and Engineering at The Chinese University of Hong Kong as a Research Assistant Professor in Fall 2023.
+My current research focuses on 3D vision and Extended Reality (XR), especially for their applications in medical study. 
 
 ## News
 * My PhD thesis is available on the [ANU Open Research](https://openresearch-repository.anu.edu.au/handle/1885/294551). (08/2023)
@@ -109,8 +109,8 @@ ENGN4528 Computer Vision
 * I like football, cooking, music, etc.
 
 ## Contact
-* Email: [shi.qiu@anu.edu.au](mailto:shi.qiu@anu.edu.au)
-* Email: [shi.qiu@data61.csiro.au](mailto:shi.qiu@data61.csiro.au)  
-* Address: CSIRO Black Mountain Site, Acton ACT 2601, Australia
+* Email: [shiqiu@cse.cuhk.edu.hk](mailto:shiqiu@cse.cuhk.edu.hk)
+* Email: [shiqiu@cuhk.edu.hk](mailto:shiqiu@cuhk.edu.hk)  
+* Address: Ho Sin Hang Engineering Building, Shatin, HKSAR China
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3257.3150331093275!2d149.11207371524776!3d-35.27329288029144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b164d5015c519f7%3A0x69c625c19efc4ddd!2sCSIRO%20-%20Synergy%20Building!5e0!3m2!1szh-CN!2sau!4v1574399971406!5m2!1szh-CN!2sau" width="360" height="270" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14752.974518026218!2d114.19648450256373!3d22.419854223609768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404089c48ad23c7%3A0xf3d7947db4f6ad99!2z5L2V5ZaE6KGh5bel56iL5a2m5aSn5qW8!5e0!3m2!1szh-CN!2shk!4v1695791075937!5m2!1szh-CN!2shk" width="360" height="270" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
