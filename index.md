@@ -68,7 +68,7 @@ IEEE Transactions on Multimedia (**TMM**), 2021
 
 ## Education Background
 * **PhD** in Engineering and Computer Science  
-**The Australian National University**, Australia (2019-Now)  
+**The Australian National University**, Australia (2019-2022)  
 * **MSc** in ICT Innovation (Digital Media Technology) with **Distinction**  
 **University College London**, UK (2016-2017)  
 Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/) and [Prof. Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/)  
@@ -79,16 +79,16 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 **Dalian University of Technology**, China (2010-2015)
 
 ## Work Experience
-* **Research Intern**  
+* **Research Intern** (08/2022-11/2022)  
 **Tencent's XR Vision Labs**, Canberra, Australia 
-* **Teaching Assistant**  
+* **Teaching Assistant** (2020-2021)  
 COMP6670 Introduction to Machine Learning  
 ENGN4528 Computer Vision  
 **ANU CECS**, Canberra, Australia 
-* **Research PhD Student**  
+* **Research PhD Student** (2019-2023)  
 **Data61 CSIRO**, Canberra, Australia  
-* **Research Engineer** in Computer Vision  
-**Vivo AI Lab**, Shenzhen, China (2018-2019)
+* **Research Engineer** (2018-2019)  
+**Vivo AI Lab**, Shenzhen, China
 
 ## Research Interest
 * 3D Computer Vision
