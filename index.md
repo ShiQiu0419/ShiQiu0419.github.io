@@ -7,9 +7,10 @@ layout: default
 
 I am Shi QIU (邱实). Currently, I am working as a Research Assistant Professor at the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/), the Chinese University of Hong Kong (CUHK). I am also affiliated with CUHK's Institute of Medical Intelligence and XR, led by [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/). Previously, I obtained my PhD degree from ANU (with Data61-CSIRO), under the supervision of [Dr. Saeed Anwar](https://saeed-anwar.github.io/) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/). 
 
-My current research focuses on 3D vision and Extended Reality (XR), especially for their applications in medical study. 
+My current research focuses on 3D vision and Extended Reality (XR), especially for their applications in medical study. My office hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* Joined CUHK CSE. (09/2023)
 * My PhD thesis is available on the [ANU Open Research](https://openresearch-repository.anu.edu.au/handle/1885/294551). (08/2023)
 * One paper accepted in ICCV. Congrats to Ruikai! (07/2023) 
 * A survey of LLMs is available on [arXiv](https://arxiv.org/abs/2307.06435). (07/2023)
@@ -23,7 +24,7 @@ My current research focuses on 3D vision and Extended Reality (XR), especially f
 * Updating since 06/2022.
 
 ## Publications   
-Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Shi-Qiu/2055117257)
+Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
 * **P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds**  
 R. Cui, <ins>S. Qiu</ins>, S. Anwar, J. Liu, C. Xing, J. Zhang, N. Barnes  
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
