@@ -7,10 +7,7 @@ layout: default
 
 I am Shi QIU (邱实). Currently, I am working as a Research Assistant Professor at the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/), the Chinese University of Hong Kong (CUHK). I am also affiliated with CUHK's Institute of Medical Intelligence and XR, led by [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/). Previously, I obtained my PhD degree from ANU (with Data61-CSIRO), under the supervision of [Dr. Saeed Anwar](https://saeed-anwar.github.io/) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/). 
 
-My current research focuses on 3D vision, visualization, human computer interaction, etc. I mainly explore these techniques with AI and Extended Reality (XR), especially for their applications in medical study. 
-
-For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
-For ENGG1120E students: please check TA's availability first, send me an email to schedule office hours if needed. 
+My current research focuses on 3D vision, visualization, human computer interaction, etc. I mainly explore these techniques with AI and Extended Reality (XR), especially for their applications in medical study. For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday. For ENGG1120E students: please check TA's availability first, send me an email to schedule office hours if needed. 
 
 ## News
 * Joined CUHK CSE. (09/2023)
