@@ -83,6 +83,8 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 **Dalian University of Technology**, China (2010-2015)
 
 ## Work Experience
+* **Research Assistant Professor** (09/2023-Now)  
+**Dept of Computer Science and Engineering**, CUHK, HKSAR 
 * **Research Intern** (08/2022-11/2022)  
 **Tencent's XR Vision Labs**, Canberra, Australia 
 * **Teaching Assistant** (2020-2021)  
