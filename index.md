@@ -10,6 +10,7 @@ I am Shi QIU (邱实). Currently, I am working as a Research Assistant Professor
 My current research focuses on 3D vision, visualization, human computer interaction, etc. I mainly explore these techniques with AI and Extended Reality (XR), especially for their applications in medical study. For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday. For ENGG1120E students: please check TA's availability first, send me an email to schedule office hours if needed. 
 
 ## News
+* Will be an Area Chair for ACM MM'24. (01/2024)
 * One paper accepted in WACV. Congrats to Runsong! (11/2023)
 * Joined CUHK CSE. (09/2023)
 * My PhD thesis is available on the [ANU Open Research](https://openresearch-repository.anu.edu.au/handle/1885/294551). (08/2023)
