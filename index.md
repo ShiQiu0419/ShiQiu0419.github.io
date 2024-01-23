@@ -7,11 +7,11 @@ layout: default
 
 I am Shi QIU (邱实). Currently, I am working as a Research Assistant Professor at the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/), the Chinese University of Hong Kong (CUHK). I am also affiliated with CUHK's Institute of Medical Intelligence and XR, led by [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/). Previously, I obtained my PhD degree from ANU (with Data61-CSIRO), under the supervision of [Dr. Saeed Anwar](https://saeed-anwar.github.io/) and [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/). 
 
-My current research focuses on 3D vision, visualization, human computer interaction, etc. I mainly explore these techniques with AI and Extended Reality (XR), especially for their applications in medical study. For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday. For ENGG1120E students: please check TA's availability first, and me an email to schedule office hours if still needed. 
+My current research focuses on 3D vision, visualization, human computer interaction, etc. I mainly explore these techniques with AI and Extended Reality (XR), especially for their applications in medical study. For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday. For ENGG1120E students: please check TA's availability first, and send me an email to schedule office hours if still needed. 
 
 ## News
 * Invited as an Area Chair for ACM MM'24. (01/2024)
-* One paper accepted in WACV. Congrats to Runsong! (11/2023)
+* One paper accepted in WACV. (11/2023)
 * Joined CUHK CSE. (09/2023)
 * My PhD thesis is available on the [ANU Open Research](https://openresearch-repository.anu.edu.au/handle/1885/294551). (08/2023)
 * One paper accepted in ICCV. Congrats to Ruikai! (07/2023) 
@@ -27,6 +27,10 @@ My current research focuses on 3D vision, visualization, human computer interact
 
 ## Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* **SSP: Semi-Signed Prioritized Neural Fitting for Surface Reconstruction From Unoriented Point Clouds** 
+R. Zhu, D. Kang, K. H. Hui, Y. Qian, <ins>S. Qiu</ins>, Z. Dong, L. Bao, P. A.  Heng, CW Fu  
+IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2024  
+[[CVF](https://openaccess.thecvf.com/content/WACV2024/papers/Zhu_SSP_Semi-Signed_Prioritized_Neural_Fitting_for_Surface_Reconstruction_From_Unoriented_WACV_2024_paper.pdf)][[supp](https://openaccess.thecvf.com/content/WACV2024/supplemental/Zhu_SSP_Semi-Signed_Prioritized_WACV_2024_supplemental.pdf)][[poster](https://runsong123.github.io/SSP/media/wacv24-2527.pdf)][[project page](https://github.com/Runsong123/SSP)]
 * **P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds**  
 R. Cui, <ins>S. Qiu</ins>, S. Anwar, J. Liu, C. Xing, J. Zhang, N. Barnes  
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
@@ -94,7 +98,7 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 **Vivo AI Lab**, Shenzhen, China
 
 ## Teaching
-* ENGG1120E Linear Algebra for Engineers (2024, CUHK, Instructor)  
+* ENGG1120E Linear Algebra for Engineers (2024, CUHK, **Instructor**)  
 * COMP6670 Introduction to Machine Learning (2020-2021, ANU, Tutor)  
 * ENGN4528 Computer Vision (2021 ANU, Tutor)
 
@@ -106,8 +110,8 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 
 ## Professional Services
 * Area Chair: MM'24
-* Conference Reviewer: CVPR, ICCV, ECCV, ACCV, WACV, AAAI, MICCAI, ISMAR, etc.
-* Journal Reviewer: TVCG, PR, TCSVT, RA-L, T-ITS, T-IV, ISPRS, Neurocomputing, etc.
+* Conference Reviewer: CVPR, ICCV, ECCV, AAAI, MICCAI, ISMAR, etc.
+* Journal Reviewer: TVCG, TCSVT, PR, RA-L, T-ITS, T-IV, ISPRS, etc.
 
 ## Misc
 * I am a national 2nd-level athlete (China) in Tennis.
