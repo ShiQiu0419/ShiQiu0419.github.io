@@ -86,14 +86,17 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 **Dept of Computer Science and Engineering**, CUHK, HKSAR 
 * **Research Intern** (08/2022-11/2022)  
 **Tencent's XR Vision Labs**, Canberra, Australia 
-* **Teaching Assistant** (2020-2021)  
-COMP6670 Introduction to Machine Learning  
-ENGN4528 Computer Vision  
+* **Teaching Assistant** (2020-2021)    
 **ANU CECS**, Canberra, Australia 
 * **Research PhD Student** (2019-2023)  
 **Data61 CSIRO**, Canberra, Australia  
 * **Research Engineer** (2018-2019)  
 **Vivo AI Lab**, Shenzhen, China
+
+## Teaching
+* ENGG1120E Linear Algebra for Engineers (2024, CUHK, Instructor)  
+* COMP6670 Introduction to Machine Learning (2020-2021, ANU, Tutor)  
+* ENGN4528 Computer Vision (2021 ANU, Tutor)
 
 ## Research Interest
 * 3D Computer Vision
@@ -103,8 +106,8 @@ ENGN4528 Computer Vision
 
 ## Professional Services
 * Area Chair: MM'24
-* Conferences: CVPR, ICCV, ECCV, ACCV, WACV, AAAI, MICCAI, ISMAR
-* Journals: TVCG, PR, TCSVT, RA-L, T-ITS, T-IV, ISPRS, Neurocomputing, MVAP, SIVP, TVCJ
+* Conference Reviewer: CVPR, ICCV, ECCV, ACCV, WACV, AAAI, MICCAI, ISMAR, etc.
+* Journal Reviewer: TVCG, PR, TCSVT, RA-L, T-ITS, T-IV, ISPRS, Neurocomputing, etc.
 
 ## Misc
 * I am a national 2nd-level athlete (China) in Tennis.
