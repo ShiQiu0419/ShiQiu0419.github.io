@@ -27,20 +27,20 @@ My current research focuses on 3D vision, visualization, human computer interact
 
 ## Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
-* **SSP: Semi-Signed Prioritized Neural Fitting for Surface Reconstruction From Unoriented Point Clouds** 
-R. Zhu, D. Kang, K. H. Hui, Y. Qian, <ins>S. Qiu</ins>, Z. Dong, L. Bao, P. A.  Heng, CW Fu  
+* **SSP: Semi-Signed Prioritized Neural Fitting for Surface Reconstruction From Unoriented Point Clouds**
+R Zhu, D Kang, KH Hui, Y Qian, <ins>S Qiu</ins>, Z Dong, L Bao, PA Heng, CW Fu  
 IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2024  
 [[CVF](https://openaccess.thecvf.com/content/WACV2024/papers/Zhu_SSP_Semi-Signed_Prioritized_Neural_Fitting_for_Surface_Reconstruction_From_Unoriented_WACV_2024_paper.pdf)][[supp](https://openaccess.thecvf.com/content/WACV2024/supplemental/Zhu_SSP_Semi-Signed_Prioritized_WACV_2024_supplemental.pdf)][[poster](https://runsong123.github.io/SSP/media/wacv24-2527.pdf)][[project page](https://github.com/Runsong123/SSP)]
 * **P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds**  
-R. Cui, <ins>S. Qiu</ins>, S. Anwar, J. Liu, C. Xing, J. Zhang, N. Barnes  
+R Cui, <ins>S Qiu</ins>, S Anwar, J Liu, C Xing, J Zhang, N Barnes  
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
 [[arxiv](https://arxiv.org/abs/2307.14726)][[IEEE](https://ieeexplore.ieee.org/document/10376600)][[CVF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cui_P2C_Self-Supervised_Point_Cloud_Completion_from_Single_Partial_Clouds_ICCV_2023_paper.pdf)][[supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Cui_P2C_Self-Supervised_Point_ICCV_2023_supplemental.pdf)][[poster](https://github.com/CuiRuikai/Partial2Complete/blob/main/assets/ICCV_Poster.pdf)][[project page](https://github.com/CuiRuikai/Partial2Complete)]
 * **A Comprehensive Overview of Large Language Models**  
-H. Naveed, A. U. Khan\*, <ins>S. Qiu</ins>\*, M. Saqib\*, S. Anwar, M. Usman, N. Akhta, N. Barnes, A. Mian  
+H Naveed, AU Khan\*, <ins>S Qiu</ins>\*, M Saqib\*, S Anwar, M Usman, N Akhta, N Barnes, A Mian  
 arxiv, 2023  
 [[arXiv](https://arxiv.org/abs/2307.06435)][[project page](https://github.com/humza909/LLM_Survey)] 
 * **PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis**   
-J. Hong\*, <ins>S. Qiu</ins>\*, W. Li, S. Anwar, M. Harandi, N. Barnes, L. Petersson  
+J Hong\*, <ins>S Qiu</ins>\*, W Li, S Anwar, M Harandi, N Barnes, L Petersson  
 arxiv, 2022  
 [[arXiv](https://arxiv.org/abs/2212.02011)][[project page](https://github.com/ShiQiu0419/pointcam)]  
 * **Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion**   
