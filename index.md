@@ -27,7 +27,7 @@ My current research focuses on 3D vision, visualization, human computer interact
 
 ## Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
-* **SSP: Semi-Signed Prioritized Neural Fitting for Surface Reconstruction From Unoriented Point Clouds**
+* **SSP: Semi-Signed Prioritized Neural Fitting for Surface Reconstruction From Unoriented Point Clouds**  
 R Zhu, D Kang, KH Hui, Y Qian, <ins>S Qiu</ins>, Z Dong, L Bao, PA Heng, CW Fu  
 IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2024  
 [[CVF](https://openaccess.thecvf.com/content/WACV2024/papers/Zhu_SSP_Semi-Signed_Prioritized_Neural_Fitting_for_Surface_Reconstruction_From_Unoriented_WACV_2024_paper.pdf)][[supp](https://openaccess.thecvf.com/content/WACV2024/supplemental/Zhu_SSP_Semi-Signed_Prioritized_WACV_2024_supplemental.pdf)][[poster](https://runsong123.github.io/SSP/media/wacv24-2527.pdf)][[project page](https://github.com/Runsong123/SSP)]
