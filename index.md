@@ -30,7 +30,7 @@ Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVth
 * **P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds**  
 R. Cui, <ins>S. Qiu</ins>, S. Anwar, J. Liu, C. Xing, J. Zhang, N. Barnes  
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
-[[arxiv](https://arxiv.org/abs/2307.14726)][[project page](https://github.com/CuiRuikai/Partial2Complete)]
+[[arxiv](https://arxiv.org/abs/2307.14726)][[IEEE](https://ieeexplore.ieee.org/document/10376600)][[CVF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cui_P2C_Self-Supervised_Point_Cloud_Completion_from_Single_Partial_Clouds_ICCV_2023_paper.pdf)][[supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Cui_P2C_Self-Supervised_Point_ICCV_2023_supplemental.pdf)][[poster](https://github.com/CuiRuikai/Partial2Complete/blob/main/assets/ICCV_Poster.pdf)][[project page](https://github.com/CuiRuikai/Partial2Complete)]
 * **A Comprehensive Overview of Large Language Models**  
 H. Naveed, A. U. Khan\*, <ins>S. Qiu</ins>\*, M. Saqib\*, S. Anwar, M. Usman, N. Akhta, N. Barnes, A. Mian  
 arxiv, 2023  
