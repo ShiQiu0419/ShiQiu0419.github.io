@@ -11,6 +11,7 @@ My current research focuses on 3D vision, visualization, human computer interact
 
 ## News
 * Invited as an Area Chair for ACM MM'24. (01/2024)
+* Direct Grant (PI, 150,000 HKD) approved. (12/2023)
 * One paper accepted in WACV. (11/2023)
 * Joined CUHK CSE. (09/2023)
 * My PhD thesis is available on the [ANU Open Research](https://openresearch-repository.anu.edu.au/handle/1885/294551). (08/2023)
