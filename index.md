@@ -101,13 +101,10 @@ ENGN4528 Computer Vision
 * Medical XR  
 * Previously worked on point clouds related topics.
 
-## Reviewer Services
-* CV Conferences: CVPR, ICCV, ECCV, ACCV, WACV
-* CV Journals: PR, TCSVT, Neurocomputing, MVAP, SIVP
-* Graphics Conferences: ISMAR
-* Graphics Journals: TVCG, TVCJ
-* Robotics Journals: RA-L, T-ITS, T-IV
-* Other AI Venues: AAAI, MICCAI, ISPRS
+## Professional Services
+* Area Chair: MM'24
+* Conferences: CVPR, ICCV, ECCV, ACCV, WACV, AAAI, MICCAI, ISMAR
+* Journals: TVCG, PR, TCSVT, RA-L, T-ITS, T-IV, ISPRS, Neurocomputing, MVAP, SIVP, TVCJ
 
 ## Misc
 * I am a national 2nd-level athlete (China) in Tennis.
