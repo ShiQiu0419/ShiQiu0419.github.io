@@ -101,7 +101,7 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 **Vivo AI Lab**, Shenzhen, China
 
 ## Teaching
-* ENGG1120E Linear Algebra for Engineers (Term 2 2024, CUHK, **Instructor**)  
+* ENGG1120E Linear Algebra for Engineers (2024 Term 2, CUHK, **Instructor**)  
 * COMP6670 Introduction to Machine Learning (2020-2021, ANU, Tutor)  
 * ENGN4528 Computer Vision (2021 ANU, Tutor)
 
