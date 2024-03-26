@@ -114,7 +114,7 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 ## Professional Services
 * Area Chair: ACM MM'24.
 * Conference Reviewer: CVPR, ICCV, ECCV, AAAI, MICCAI, ISMAR, etc.
-* Journal Reviewer: TVCG, TCSVT, PR, RA-L, T-ITS, T-IV, ISPRS, etc.
+* Journal Reviewer: TVCG, TIP, TCSVT, PR, RA-L, T-ITS, T-IV, ISPRS, etc.
 
 ## Misc
 * I am a national 2nd-level athlete (China) in Tennis.
