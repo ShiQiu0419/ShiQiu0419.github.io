@@ -33,7 +33,7 @@ Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVth
 * **PCF-Lift: Panoptic Lifting by Probabilistic Contrastive Fusion**  
 R Zhu, <ins>S Qiu</ins>, Q Wu, KH Hui, PA Heng, CW Fu  
 European Conference on Computer Vision (**ECCV**), 2024  
-[[ECVA(pdf)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00187.pdf)][[supp](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00187-supp.pdf)]  
+[[ECVA](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00187.pdf)][[supp](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00187-supp.pdf)]  
 * **SSP: Semi-Signed Prioritized Neural Fitting for Surface Reconstruction From Unoriented Point Clouds**  
 R Zhu, D Kang, KH Hui, Y Qian, <ins>S Qiu</ins>, Z Dong, L Bao, PA Heng, CW Fu  
 IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2024  
