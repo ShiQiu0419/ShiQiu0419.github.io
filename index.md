@@ -12,6 +12,8 @@ My current research focuses on 3D vision, visualization, human computer interact
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* One paper accepted in ECCV. Congrats to Runsong! (06/2024)
+* Invited as a Guest Editor for Applied Sciences. (04/2024)
 * Invited as an Area Chair for ACM MM'24. (01/2024)
 * Direct Grant (PI, 150,000 HKD) approved. (12/2023)
 * One paper accepted in WACV. (11/2023)
@@ -117,8 +119,8 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 
 ## Professional Services
 * Area Chair: ACM MM'24.
-* Conference Reviewer: CVPR, ICCV, ECCV, AAAI, MICCAI, ISMAR, etc.
-* Journal Reviewer: TVCG, TIP, TCSVT, PR, RA-L, T-ITS, T-IV, ISPRS, etc.
+* Conference Reviewer: CVPR, ICCV, ECCV, AAAI, MICCAI, VR, ISMAR, etc.
+* Journal Reviewer: ToG, TVCG, TIP, TCSVT, PR, RA-L, T-ITS, T-IV, ISPRS, etc.
 
 ## Misc
 * I am a national 2nd-level athlete (China) in Tennis.
