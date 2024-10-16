@@ -35,7 +35,7 @@ Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVth
 * **PCF-Lift: Panoptic Lifting by Probabilistic Contrastive Fusion**  
 R Zhu, <ins>S Qiu</ins>, Q Wu, KH Hui, PA Heng, CW Fu  
 European Conference on Computer Vision (**ECCV**), 2024  
-[[ECVA](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00187.pdf)][[supp](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00187-supp.pdf)]  
+[[arXiv](https://arxiv.org/abs/2410.10659)][[ECVA](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00187.pdf)][[supp](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00187-supp.pdf)][[poster](https://github.com/Runsong123/PCF-Lift/blob/main/assets/Poster_PCF_Lift.pdf)][[project page](https://github.com/runsong123/pcf-lift)]  
 * **SSP: Semi-Signed Prioritized Neural Fitting for Surface Reconstruction From Unoriented Point Clouds**  
 R Zhu, D Kang, KH Hui, Y Qian, <ins>S Qiu</ins>, Z Dong, L Bao, PA Heng, CW Fu  
 IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2024  
@@ -43,7 +43,7 @@ IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2024
 * **P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds**  
 R Cui, <ins>S Qiu</ins>, S Anwar, J Liu, C Xing, J Zhang, N Barnes  
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
-[[arxiv](https://arxiv.org/abs/2307.14726)][[IEEE](https://ieeexplore.ieee.org/document/10376600)][[CVF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cui_P2C_Self-Supervised_Point_Cloud_Completion_from_Single_Partial_Clouds_ICCV_2023_paper.pdf)][[supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Cui_P2C_Self-Supervised_Point_ICCV_2023_supplemental.pdf)][[poster](https://github.com/CuiRuikai/Partial2Complete/blob/main/assets/ICCV_Poster.pdf)][[project page](https://github.com/CuiRuikai/Partial2Complete)]
+[[arXiv](https://arxiv.org/abs/2307.14726)][[IEEE](https://ieeexplore.ieee.org/document/10376600)][[CVF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cui_P2C_Self-Supervised_Point_Cloud_Completion_from_Single_Partial_Clouds_ICCV_2023_paper.pdf)][[supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Cui_P2C_Self-Supervised_Point_ICCV_2023_supplemental.pdf)][[poster](https://github.com/CuiRuikai/Partial2Complete/blob/main/assets/ICCV_Poster.pdf)][[project page](https://github.com/CuiRuikai/Partial2Complete)]
 * **A Comprehensive Overview of Large Language Models**  
 H Naveed, AU Khan\*, <ins>S Qiu</ins>\*, M Saqib\*, S Anwar, M Usman, N Akhta, N Barnes, A Mian  
 arxiv, 2023  
@@ -55,7 +55,7 @@ arxiv, 2022
 * **Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion**   
 Ruikai Cui, <ins>Shi Qiu</ins>, Saeed Anwar, Jing Zhang, Nick Barnes  
 British Machine Vision Conference (**BMVC**), 2022  
-[[arxiv](https://arxiv.org/abs/2211.06820)][[BMVC](https://bmvc2022.mpi-inf.mpg.de/0048.pdf)][[supp](https://bmvc2022.mpi-inf.mpg.de/0048_supp.zip)][[poster](https://bmvc2022.mpi-inf.mpg.de/0048_poster.pdf)][[video](https://bmvc2022.mpi-inf.mpg.de/0048_video.mp4)][[project page](https://github.com/CuiRuikai/Latent-Transport-UPCN)]  
+[[arXiv](https://arxiv.org/abs/2211.06820)][[BMVC](https://bmvc2022.mpi-inf.mpg.de/0048.pdf)][[supp](https://bmvc2022.mpi-inf.mpg.de/0048_supp.zip)][[poster](https://bmvc2022.mpi-inf.mpg.de/0048_poster.pdf)][[video](https://bmvc2022.mpi-inf.mpg.de/0048_video.mp4)][[project page](https://github.com/CuiRuikai/Latent-Transport-UPCN)]  
 * **PU-Transformer: Point Cloud Upsampling Transformer**   
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 Asian Conference on Computer Vision (**ACCV**), 2022  
