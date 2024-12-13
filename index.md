@@ -43,7 +43,7 @@ IEEE International Conference on Artificial Intelligence & eXtended and Virtual 
 [[arXiv](https://arxiv.org/abs/2412.06257)]
 * **NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**  
 R Cui, <ins>S Qiu</ins>, J Liu, S Anwar, N Barnes  
-arXiv, 2024  
+Preprint, 2024  
 [[arXiv](https://arxiv.org/abs/2411.17392)][[project page](https://github.com/CuiRuikai/NumGrad-Pull)]    
 * **PCF-Lift: Panoptic Lifting by Probabilistic Contrastive Fusion**  
 R Zhu, <ins>S Qiu</ins>, Q Wu, KH Hui, PA Heng, CW Fu  
@@ -59,11 +59,11 @@ IEEE International Conference on Computer Vision (**ICCV**), 2023
 [[arXiv](https://arxiv.org/abs/2307.14726)][[IEEE](https://ieeexplore.ieee.org/document/10376600)][[CVF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cui_P2C_Self-Supervised_Point_Cloud_Completion_from_Single_Partial_Clouds_ICCV_2023_paper.pdf)][[supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Cui_P2C_Self-Supervised_Point_ICCV_2023_supplemental.pdf)][[poster](https://github.com/CuiRuikai/Partial2Complete/blob/main/assets/ICCV_Poster.pdf)][[project page](https://github.com/CuiRuikai/Partial2Complete)]
 * **A Comprehensive Overview of Large Language Models**  
 H Naveed, AU Khan\*, <ins>S Qiu</ins>\*, M Saqib\*, S Anwar, M Usman, N Akhta, N Barnes, A Mian  
-arxiv, 2023  
+Preprint, 2023  
 [[arXiv](https://arxiv.org/abs/2307.06435)][[project page](https://github.com/humza909/LLM_Survey)] 
 * **PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis**   
 J Hong\*, <ins>S Qiu</ins>\*, W Li, S Anwar, M Harandi, N Barnes, L Petersson  
-arxiv, 2022  
+Preprint, 2022  
 [[arXiv](https://arxiv.org/abs/2212.02011)][[project page](https://github.com/ShiQiu0419/pointcam)]  
 * **Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion**   
 Ruikai Cui, <ins>Shi Qiu</ins>, Saeed Anwar, Jing Zhang, Nick Barnes  
