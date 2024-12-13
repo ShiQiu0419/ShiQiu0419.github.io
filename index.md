@@ -33,6 +33,18 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* **MS2Mesh-XR: Multi-modal Sketch-to-Mesh Generation in XR Environments**  
+Y Tong, Y Qiu, R Li, <ins>S Qiu</ins>, PA Heng 
+IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (**AIxVR**), 2025    
+[[arXiv](https://arxiv.org/abs/2412.09008)]
+* **Advancing Extended Reality with 3D Gaussian Splatting: Innovations and Prospects**  
+<ins>S Qiu</ins>, B Xie, Q Liu, PA Heng  
+IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (**AIxVR**), 2025  
+[[arXiv](https://arxiv.org/abs/2412.06257)]
+* **NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**  
+R Cui, <ins>S Qiu</ins>, J Liu, S Anwar, N Barnes  
+arXiv, 2024  
+[[arXiv](https://arxiv.org/abs/2411.17392)]  
 * **PCF-Lift: Panoptic Lifting by Probabilistic Contrastive Fusion**  
 R Zhu, <ins>S Qiu</ins>, Q Wu, KH Hui, PA Heng, CW Fu  
 European Conference on Computer Vision (**ECCV**), 2024  
