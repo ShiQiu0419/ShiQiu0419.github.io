@@ -12,6 +12,7 @@ My current research focuses on 3D vision, visualization, human computer interact
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* Two works accepted as IEEE VR 2025 Posters. (01/2025)
 * Two papers accepted in [IEEE AIxVR 2025](https://aixvr.tecnico.ulisboa.pt/). (11/2024)
 * One paper accepted in ECCV. Congrats to Runsong! (06/2024)
 * Invited as a Guest Editor for Applied Sciences. (04/2024)
