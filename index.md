@@ -12,6 +12,8 @@ My current research focuses on 3D vision, visualization, human computer interact
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* Invited as an Area Chair for ACM MM'25. (02/2025)
+* Invited as an Area Chair for MICCAI 2025. (01/2025)  
 * Two works accepted as IEEE VR 2025 Posters. (01/2025)
 * Two papers accepted in [IEEE AIxVR 2025](https://aixvr.tecnico.ulisboa.pt/). (11/2024)
 * One paper accepted in ECCV. Congrats to Runsong! (06/2024)
@@ -27,10 +29,6 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 * Delivered a [seminar](https://www.cse.cuhk.edu.hk/upcoming-events/learning-deep-feature-representations-of-3d-point-cloud-data/) at CUHK CSE, HKSAR. (02/2023)
 * Submitted PhD thesis. (12/2022) 
 * Completed PhD [oral presentation](https://drive.google.com/file/d/1s5WA7QUt-KPXTKrVfX8OfKB_EPONPWlh/view?usp=sharing). (12/2022)
-* One paper accepted in BMVC. (09/2022) 
-* One paper accepted in ACCV. (09/2022) 
-* Joined Tencent's XR Vision Labs as a research intern. (08/2022)
-* Updating since 06/2022.
 
 ## Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
