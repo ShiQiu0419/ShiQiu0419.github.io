@@ -32,11 +32,11 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025
 [[arXiv](https://arxiv.org/abs/2503.14029)][[project page](https://github.com/Runsong123/Unified-Lift)]  
 * **Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**  
 <ins>S Qiu</ins>, B Xie, Q Liu, PA Heng  
-IEEE Conference on Virtual Reality and 3D User Interfaces (**VR 2025 Posters**)    
+IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) Posters, 2025      
 [[arXiv](https://arxiv.org/abs/2503.15507)][[demo video](https://youtu.be/XR3GzmpCdlE)] 
 * **CvhSlicer 2.0: Immersive and Interactive Visualization of Chinese Visible Human Data in XR Environments**  
 Y Qiu, Y Yong, Y Zhang, Q Liu, J Pei, <ins>S Qiu</ins>, PA Heng, CW Fu  
-IEEE Conference on Virtual Reality and 3D User Interfaces (**VR 2025 Posters**)    
+IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) Posters, 2025      
 [[arXiv](https://arxiv.org/abs/2501.09302)][[demo video](https://youtu.be/CfR72S_0N-4)]  
 * **MS2Mesh-XR: Multi-modal Sketch-to-Mesh Generation in XR Environments**  
 Y Tong, Y Qiu, R Li, <ins>S Qiu</ins>, PA Heng  
