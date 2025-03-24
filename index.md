@@ -26,10 +26,14 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* **Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**  
+<ins>S Qiu</ins>, B Xie, Q Liu, PA Heng  
+IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) Posters, 2025    
+[[arXiv](https://arxiv.org/abs/2503.15507)][[demo video](https://youtu.be/XR3GzmpCdlE)] 
 * **CvhSlicer 2.0: Immersive and Interactive Visualization of Chinese Visible Human Data in XR Environments**  
 Y Qiu, Y Yong, Y Zhang, Q Liu, J Pei, <ins>S Qiu</ins>, PA Heng, CW Fu  
 IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) Posters, 2025    
-[[arXiv](https://arxiv.org/abs/2412.09008)][[demo video](https://youtu.be/CfR72S_0N-4)]  
+[[arXiv](https://arxiv.org/abs/2501.09302)][[demo video](https://youtu.be/CfR72S_0N-4)]  
 * **MS2Mesh-XR: Multi-modal Sketch-to-Mesh Generation in XR Environments**  
 Y Tong, Y Qiu, R Li, <ins>S Qiu</ins>, PA Heng  
 IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (**AIxVR**), 2025    
