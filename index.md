@@ -12,34 +12,32 @@ My current research focuses on 3D vision, visualization, human computer interact
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* One paper accepted in CVPR 2025. (03/2025)
 * Invited as an Area Chair for ACM MM'25. (02/2025)
 * Invited as an Area Chair for MICCAI 2025. (01/2025)  
 * Two works accepted as IEEE VR 2025 Posters. (01/2025)
 * Two papers accepted in [IEEE AIxVR 2025](https://aixvr.tecnico.ulisboa.pt/). (11/2024)
-* One paper accepted in ECCV. Congrats to Runsong! (06/2024)
+* One paper accepted in ECCV 2024. (06/2024)
 * Invited as a Guest Editor for Applied Sciences. (04/2024)
 * Invited as an Area Chair for ACM MM'24. (01/2024)
 * Direct Grant (PI, 150,000 HKD) approved. (12/2023)
 * One paper accepted in WACV. (11/2023)
 * Joined CUHK CSE. (09/2023)
-* My PhD thesis is available on the [ANU Open Research](https://openresearch-repository.anu.edu.au/handle/1885/294551). (08/2023)
-* One paper accepted in ICCV. Congrats to Ruikai! (07/2023) 
-* A survey of LLMs is available on [arXiv](https://arxiv.org/abs/2307.06435). (07/2023)
-* Qualified for HDR (MPhil, PhD) Supervisor at ANU. (04/2023)
-* Delivered a [seminar](https://www.cse.cuhk.edu.hk/upcoming-events/learning-deep-feature-representations-of-3d-point-cloud-data/) at CUHK CSE, HKSAR. (02/2023)
-* Submitted PhD thesis. (12/2022) 
-* Completed PhD [oral presentation](https://drive.google.com/file/d/1s5WA7QUt-KPXTKrVfX8OfKB_EPONPWlh/view?usp=sharing). (12/2022)
 
 ## Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* **CvhSlicer 2.0: Immersive and Interactive Visualization of Chinese Visible Human Data in XR Environments**  
+Y Qiu, Y Yong, Y Zhang, Q Liu, J Pei, <ins>S Qiu</ins>, PA Heng, CW Fu  
+IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) Posters, 2025    
+[[arXiv](https://arxiv.org/abs/2412.09008)][[demo video](https://youtu.be/CfR72S_0N-4)]  
 * **MS2Mesh-XR: Multi-modal Sketch-to-Mesh Generation in XR Environments**  
 Y Tong, Y Qiu, R Li, <ins>S Qiu</ins>, PA Heng  
 IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (**AIxVR**), 2025    
-[[arXiv](https://arxiv.org/abs/2412.09008)][[project page](https://yueqiu0911.github.io/MS2Mesh-XR/)]  
+[[arXiv](https://arxiv.org/abs/2412.09008)][[IEEE](https://ieeexplore.ieee.org/abstract/document/10896065)][[project page](https://yueqiu0911.github.io/MS2Mesh-XR/)]  
 * **Advancing Extended Reality with 3D Gaussian Splatting: Innovations and Prospects**  
 <ins>S Qiu</ins>, B Xie, Q Liu, PA Heng  
 IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (**AIxVR**), 2025  
-[[arXiv](https://arxiv.org/abs/2412.06257)]
+[[arXiv](https://arxiv.org/abs/2412.06257)][[IEEE](https://ieeexplore.ieee.org/abstract/document/10896112)]
 * **NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**  
 R Cui, <ins>S Qiu</ins>, J Liu, S Anwar, N Barnes  
 Preprint, 2024  
