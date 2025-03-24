@@ -12,7 +12,7 @@ My current research focuses on 3D vision, visualization, human computer interact
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
-* One paper accepted in CVPR 2025. (03/2025)
+* [One paper](https://arxiv.org/abs/2503.14029) accepted in CVPR 2025. (03/2025)
 * Invited as an Area Chair for ACM MM'25. (02/2025)
 * Invited as an Area Chair for MICCAI 2025. (01/2025)  
 * Two works accepted as IEEE VR 2025 Posters. (01/2025)
@@ -26,6 +26,10 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* **Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting**   
+R Zhu, <ins>Shi Qiu</ins>, Z Liu, KH Hui, Q Wu, PA Heng, CW Fu  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025  
+[[arXiv](https://arxiv.org/abs/2503.14029)][[project page](https://github.com/Runsong123/Unified-Lift)]  
 * **Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**  
 <ins>S Qiu</ins>, B Xie, Q Liu, PA Heng  
 IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) Posters, 2025    
