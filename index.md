@@ -15,9 +15,9 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 * [One paper](https://arxiv.org/abs/2503.14029) accepted in CVPR 2025. (03/2025)
 * Invited as an Area Chair for ACM MM'25. (02/2025)
 * Invited as an Area Chair for MICCAI 2025. (01/2025)  
-* Two works accepted as IEEE VR 2025 Posters. (01/2025)
+* Two posters accepted in IEEE VR 2025. (01/2025)
 * Two papers accepted in [IEEE AIxVR 2025](https://aixvr.tecnico.ulisboa.pt/). (11/2024)
-* One paper accepted in ECCV 2024. (06/2024)
+* [One paper](https://link.springer.com/chapter/10.1007/978-3-031-72627-9_6) accepted in ECCV 2024. (06/2024)
 * Invited as a Guest Editor for Applied Sciences. (04/2024)
 * Invited as an Area Chair for ACM MM'24. (01/2024)
 * Direct Grant (PI, 150,000 HKD) approved. (12/2023)
@@ -125,7 +125,7 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 **Vivo AI Lab**, Shenzhen, China
 
 ## Teaching
-* ENGG1120E Linear Algebra for Engineers (2024 Term 2, CUHK, **Instructor**)  
+* ENGG1120E Linear Algebra for Engineers (2023-2024, 2024-2025, CUHK, **Instructor**)  
 * COMP6670 Introduction to Machine Learning (2020-2021, ANU, Tutor)  
 * ENGN4528 Computer Vision (2021 ANU, Tutor)
 
@@ -136,9 +136,9 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 * Previously worked on point clouds related topics.
 
 ## Professional Services
-* Area Chair: ACM MM'24.
+* Area Chair: ACM MM'24, ACM MM'25, MICCAI 2025.
 * Conference Reviewer: CVPR, ICCV, ECCV, AAAI, MICCAI, VR, ISMAR, etc.
-* Journal Reviewer: TOG, TVCG, TIP, TCSVT, PR, RA-L, T-ITS, T-IV, ISPRS, etc.
+* Journal Reviewer: TOG, TVCG, TIP, TMM, TCSVT, PR, RA-L, ISPRS, etc.
 
 ## Misc
 * I am a national 2nd-level athlete (China) in Tennis.
