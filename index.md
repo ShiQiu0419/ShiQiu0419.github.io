@@ -31,7 +31,7 @@ Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVth
 * **Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting**   
 R Zhu, <ins>Shi Qiu</ins>, Z Liu, KH Hui, Q Wu, PA Heng, CW Fu  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025  
-[[arXiv](https://arxiv.org/abs/2503.14029)][[project page](https://github.com/Runsong123/Unified-Lift)]  
+[[arXiv](https://arxiv.org/abs/2503.14029)][[CVF](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Rethinking_End-to-End_2D_to_3D_Scene_Segmentation_in_Gaussian_Splatting_CVPR_2025_paper.pdf)][[supp](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Zhu_Rethinking_End-to-End_2D_CVPR_2025_supplemental.pdf)][[project page](https://github.com/Runsong123/Unified-Lift)]  
 * **Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**  
 <ins>S Qiu</ins>, B Xie, Q Liu, PA Heng  
 IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) Posters, 2025      
