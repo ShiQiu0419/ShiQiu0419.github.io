@@ -12,6 +12,8 @@ My current research focuses on 3D vision, visualization, human computer interact
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* One short paper accepted in IEEE VIS 2025. (06/2025)
+* One paper accepted in IROS 2025. (06/2025)
 * LLM Overview accepted in ACM TIST. (05/2025)
 * One paper early accepted in MICCAI 2025. (05/2025)  
 * [One paper](https://arxiv.org/abs/2503.14029) accepted in CVPR 2025. (03/2025)
