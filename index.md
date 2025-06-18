@@ -22,10 +22,7 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 * Two posters accepted in IEEE VR 2025. (01/2025)
 * Two papers accepted in [IEEE AIxVR 2025](https://aixvr.tecnico.ulisboa.pt/). (11/2024)
 * [One paper](https://link.springer.com/chapter/10.1007/978-3-031-72627-9_6) accepted in ECCV 2024. (06/2024)
-* Invited as a Guest Editor for Applied Sciences. (04/2024)
-* Invited as an Area Chair for ACM MM'24. (01/2024)
-* Direct Grant (PI, 150,000 HKD) approved. (12/2023)
-* One paper accepted in WACV. (11/2023)
+* ...
 * Joined CUHK CSE. (09/2023)
 
 ## Publications   
