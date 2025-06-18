@@ -27,6 +27,10 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* **A Comprehensive Overview of Large Language Models**  
+H Naveed, AU Khan\*, <ins>S Qiu</ins>\*, M Saqib\*, S Anwar, M Usman, N Akhta, N Barnes, A Mian  
+ACM Transactions on Intelligent Systems and Technology (**TIST**), 2025  
+[[arXiv](https://arxiv.org/abs/2307.06435)][[ACM (TBA)](https://shiqiu0419.github.io/)][[project page](https://github.com/humza909/LLM_Survey)] 
 * **Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting**   
 R Zhu, <ins>Shi Qiu</ins>, Z Liu, KH Hui, Q Wu, PA Heng, CW Fu  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025  
@@ -63,10 +67,6 @@ IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2024
 R Cui, <ins>S Qiu</ins>, S Anwar, J Liu, C Xing, J Zhang, N Barnes  
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
 [[arXiv](https://arxiv.org/abs/2307.14726)][[IEEE](https://ieeexplore.ieee.org/document/10376600)][[CVF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cui_P2C_Self-Supervised_Point_Cloud_Completion_from_Single_Partial_Clouds_ICCV_2023_paper.pdf)][[supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Cui_P2C_Self-Supervised_Point_ICCV_2023_supplemental.pdf)][[poster](https://github.com/CuiRuikai/Partial2Complete/blob/main/assets/ICCV_Poster.pdf)][[project page](https://github.com/CuiRuikai/Partial2Complete)]
-* **A Comprehensive Overview of Large Language Models**  
-H Naveed, AU Khan\*, <ins>S Qiu</ins>\*, M Saqib\*, S Anwar, M Usman, N Akhta, N Barnes, A Mian  
-Preprint, 2023  
-[[arXiv](https://arxiv.org/abs/2307.06435)][[project page](https://github.com/humza909/LLM_Survey)] 
 * **PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis**   
 J Hong\*, <ins>S Qiu</ins>\*, W Li, S Anwar, M Harandi, N Barnes, L Petersson  
 Preprint, 2022  
