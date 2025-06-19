@@ -30,7 +30,7 @@ Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVth
 * **A Comprehensive Overview of Large Language Models**  
 H Naveed, AU Khan\*, <ins>S Qiu</ins>\*, M Saqib\*, S Anwar, M Usman, N Akhta, N Barnes, A Mian  
 ACM Transactions on Intelligent Systems and Technology (**TIST**), 2025  
-[[arXiv](https://arxiv.org/abs/2307.06435)][[ACM (TBA)](https://shiqiu0419.github.io/)][[project page](https://github.com/humza909/LLM_Survey)] 
+[[arXiv](https://arxiv.org/abs/2307.06435)][[ACM](https://dl.acm.org/doi/10.1145/3744746)][[project page](https://github.com/humza909/LLM_Survey)] 
 * **Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting**   
 R Zhu, <ins>Shi Qiu</ins>, Z Liu, KH Hui, Q Wu, PA Heng, CW Fu  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025  
