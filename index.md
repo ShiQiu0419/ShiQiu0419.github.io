@@ -104,7 +104,8 @@ IEEE Transactions on Multimedia (**TMM**, [ESI Highly Cited Paper](https://www.w
 [[arXiv](https://arxiv.org/abs/1911.12885)][[IEEE](https://ieeexplore.ieee.org/document/9410405)][[project page](https://github.com/ShiQiu0419/GFNet)]
 
 ## Teaching
-* ENGG1120E Linear Algebra for Engineers (2023-2024, 2024-2025, CUHK, **Instructor**)  
+* ENGG1125 Single Variable Calculus for Engineers (2025-2026, CUHK, **Instructor**)  
+* ENGG1120 Linear Algebra for Engineers (2023-2024, 2024-2025, CUHK, **Instructor**)  
 * COMP6670 Introduction to Machine Learning (2020-2021, ANU, Tutor)  
 * ENGN4528 Computer Vision (2021 ANU, Tutor)
 
@@ -121,26 +122,26 @@ IEEE Transactions on Multimedia (**TMM**, [ESI Highly Cited Paper](https://www.w
 
 ## Education Background
 * **PhD** in Engineering and Computer Science  
-**The Australian National University**, Australia (2019-2022)  
-* **MSc** in ICT Innovation (Digital Media Technology) with **Distinction**  
-**University College London**, UK (2016-2017)  
-**KTH Royal Institute of Technology**, Sweden (2015-2016)
+The Australian National University, Australia (2019-2022)  
+* **MSc** in ICT Innovation (Digital Media Technology) with Distinction  
+University College London, UK (2016-2017)  
+KTH Royal Institute of Technology, Sweden (2015-2016)
 * **Minor Degree** in Entrepreneurship  
-**EIT Digital Master School**, EU (2015-2017) 
+EIT Digital Master School, EU (2015-2017) 
 * **BEng** in Electronic and Information Engineering  
-**Dalian University of Technology**, China (2010-2015)
+Dalian University of Technology, China (2010-2015)
 
 ## Work Experience
 * **Research Assistant Professor** (09/2023-Now)  
-**Dept of Computer Science and Engineering**, CUHK, HKSAR 
+Dept of Computer Science and Engineering, CUHK, HKSAR 
 * **Research Intern** (08/2022-11/2022)  
-**Tencent's XR Vision Labs**, Canberra, Australia 
+Tencent's XR Vision Labs, Canberra, Australia 
 * **Teaching Assistant** (2020-2021)    
-**ANU CECS**, Canberra, Australia 
+ANU CECS, Canberra, Australia 
 * **Research PhD Student** (2019-2023)  
-**Data61 CSIRO**, Canberra, Australia  
+Data61 CSIRO, Canberra, Australia  
 * **Research Engineer** (2018-2019)  
-**Vivo AI Lab**, Shenzhen, China
+Vivo AI Lab, Shenzhen, China
 
 ## Contact
 * Email: [shiqiu@cse.cuhk.edu.hk](mailto:shiqiu@cse.cuhk.edu.hk)
