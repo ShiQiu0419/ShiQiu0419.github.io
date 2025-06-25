@@ -9,6 +9,8 @@ I am Shi QIU (邱实). Currently, I am working as a Research Assistant Professor
 
 My current research focuses on 3D vision, visualization, human computer interaction, etc. I mainly explore these techniques with AI and Extended Reality (XR), especially for their applications in medical study. 
 
+For PhD/MPhil/RA applicants: I currently do not have a clear plan for the 2026 intakes, thus may not respond actively.
+
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
