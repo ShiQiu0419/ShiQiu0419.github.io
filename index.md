@@ -103,12 +103,27 @@ IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2021
 IEEE Transactions on Multimedia (**TMM**, [ESI Highly Cited Paper](https://www.webofscience.com/wos/woscc/full-record/WOS:000778959200013)), 2021  
 [[arXiv](https://arxiv.org/abs/1911.12885)][[IEEE](https://ieeexplore.ieee.org/document/9410405)][[project page](https://github.com/ShiQiu0419/GFNet)]
 
+## Teaching
+* ENGG1120E Linear Algebra for Engineers (2023-2024, 2024-2025, CUHK, **Instructor**)  
+* COMP6670 Introduction to Machine Learning (2020-2021, ANU, Tutor)  
+* ENGN4528 Computer Vision (2021 ANU, Tutor)
+
+## Supervising
+* Since 2025: Kaiyuan Hu, Yuqi Tong
+* Since 2024: Binzhu Xie (RA), Diandian Guo (co-supervise with Prof. Heng)  
+* Since 2023: Yue Qiu, Yan Li, Yinqiao Wang, Qixuan Liu (committee member)
+* I am also a registered HDR (PhD/MPhil) supervisor at ANU since 2023.
+
+## Professional Services
+* Area Chair: ACM MM'24, ACM MM'25, MICCAI 2025.
+* Conference Reviewer: CVPR, ICCV, ECCV, AAAI, MICCAI, VR, ISMAR, etc.
+* Journal Reviewer: TOG, TVCG, TIP, TMM, TCSVT, PR, RA-L, ISPRS, etc.
+
 ## Education Background
 * **PhD** in Engineering and Computer Science  
 **The Australian National University**, Australia (2019-2022)  
 * **MSc** in ICT Innovation (Digital Media Technology) with **Distinction**  
 **University College London**, UK (2016-2017)  
-Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/) and [Prof. Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/)  
 **KTH Royal Institute of Technology**, Sweden (2015-2016)
 * **Minor Degree** in Entrepreneurship  
 **EIT Digital Master School**, EU (2015-2017) 
@@ -126,27 +141,6 @@ Supervised by: [Dr. Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/
 **Data61 CSIRO**, Canberra, Australia  
 * **Research Engineer** (2018-2019)  
 **Vivo AI Lab**, Shenzhen, China
-
-## Teaching
-* ENGG1120E Linear Algebra for Engineers (2023-2024, 2024-2025, CUHK, **Instructor**)  
-* COMP6670 Introduction to Machine Learning (2020-2021, ANU, Tutor)  
-* ENGN4528 Computer Vision (2021 ANU, Tutor)
-
-## Research Interest
-* 3D Computer Vision
-* 3D VR/AR
-* Medical XR  
-* Previously worked on point clouds related topics.
-
-## Professional Services
-* Area Chair: ACM MM'24, ACM MM'25, MICCAI 2025.
-* Conference Reviewer: CVPR, ICCV, ECCV, AAAI, MICCAI, VR, ISMAR, etc.
-* Journal Reviewer: TOG, TVCG, TIP, TMM, TCSVT, PR, RA-L, ISPRS, etc.
-
-## Misc
-* I am a national 2nd-level athlete (China) in Tennis.
-* I have completed 10+ full/half marathons.
-* I like football, cooking, music, etc.
 
 ## Contact
 * Email: [shiqiu@cse.cuhk.edu.hk](mailto:shiqiu@cse.cuhk.edu.hk)
