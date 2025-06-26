@@ -30,6 +30,10 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* **Gaussian Splatting with Reflectance Regularization for Endoscopic Scene Reconstruction**  
+C Li, K Chen, <ins>S Qiu</ins>, YK Chan, Q Dou  
+IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2025  
+[[TBA](https://shiqiu0419.github.io/)] 
 * **ClipGS: Clippable Gaussian Splatting for Interactive Cinematic Visualization of Volumetric Medical Data**  
 C Li, Y Tong, K Chen, Z Yang, R Li, <ins>S Qiu</ins>, YK Chan, PA Heng, Q Dou  
 International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2025  
