@@ -33,19 +33,19 @@ Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVth
 * **Trade-offs in Image Generation: How Do Different Dimensions Interact?**  
 S Zhang, B Xie, Z Yan, Y Zhang, D Zhou, X Chen, <ins>S Qiu</ins>, J Liu, G Xie, Z Lu  
 IEEE International Conference on Computer Vision (**ICCV**), 2025  
-[[paper (coming soon)](https://shiqiu0419.github.io/)] 
+[[paper coming soon](https://shiqiu0419.github.io/)] 
 * **Coordinated 2D-3D Visualization of Volumetric Medical Data in XR with Multimodal Interactions**  
 Q Liu, <ins>S Qiu</ins>, Y Wang, X Wu, SH Chok, CW Fu, PA Heng  
 IEEE Visualization and Visual Analytics Conference (**VIS**) Short Paper, 2025  
-[[paper (coming soon)](https://shiqiu0419.github.io/)] 
+[[paper coming soon](https://shiqiu0419.github.io/)] 
 * **Gaussian Splatting with Reflectance Regularization for Endoscopic Scene Reconstruction**  
 C Li, K Chen, <ins>S Qiu</ins>, YK Chan, Q Dou  
 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2025  
-[[paper (coming soon)](https://shiqiu0419.github.io/)] 
+[[paper coming soon](https://shiqiu0419.github.io/)] 
 * **ClipGS: Clippable Gaussian Splatting for Interactive Cinematic Visualization of Volumetric Medical Data**  
 C Li, Y Tong, K Chen, Z Yang, R Li, <ins>S Qiu</ins>, YK Chan, PA Heng, Q Dou  
 International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2025  
-[[paper (coming soon)](https://shiqiu0419.github.io/)][[project page](https://med-air.github.io/ClipGS/)] 
+[[paper coming soon](https://shiqiu0419.github.io/)][[project page](https://med-air.github.io/ClipGS/)] 
 * **A Comprehensive Overview of Large Language Models**  
 H Naveed, AU Khan, <ins>S Qiu</ins>, M Saqib, S Anwar, M Usman, N Akhta, N Barnes, A Mian  
 ACM Transactions on Intelligent Systems and Technology (**TIST**), 2025  
