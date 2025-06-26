@@ -30,8 +30,12 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* **ClipGS: Clippable Gaussian Splatting for Interactive Cinematic Visualization of Volumetric Medical Data**  
+C Li, Y Tong, K Chen, Z Yang, R Li, <ins>S Qiu</ins>, YK Chan, PA Heng, Q Dou  
+International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2025  
+[[TBA](https://shiqiu0419.github.io/)][[project page](https://med-air.github.io/ClipGS/)] 
 * **A Comprehensive Overview of Large Language Models**  
-H Naveed, AU Khan\*, <ins>S Qiu</ins>\*, M Saqib\*, S Anwar, M Usman, N Akhta, N Barnes, A Mian  
+H Naveed, AU Khan, <ins>S Qiu</ins>, M Saqib, S Anwar, M Usman, N Akhta, N Barnes, A Mian  
 ACM Transactions on Intelligent Systems and Technology (**TIST**), 2025  
 [[arXiv](https://arxiv.org/abs/2307.06435)][[ACM](https://dl.acm.org/doi/10.1145/3744746)][[project page](https://github.com/humza909/LLM_Survey)] 
 * **Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting**   
