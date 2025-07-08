@@ -14,6 +14,7 @@ For PhD/MPhil/RA applicants: I currently do not have a clear plan for the 2026 i
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* One paper accepted in ACM MM'25. (07/2025)
 * One paper accepted in ICCV 2025. (06/2025)
 * One short paper accepted in IEEE VIS 2025. (06/2025)
 * One paper accepted in IROS 2025. (06/2025)
