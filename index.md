@@ -31,6 +31,10 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* **Generative Multi-Sensory Meditation: Exploring Immersive Depth and Activation in Virtual Reality**  
+Y Jiang, B Xie, L Xu, X Lei, <ins>S Qiu</ins>, L Yu, P Hui  
+ACM International Conference on Multimedia (**ACM MM**), 2025  
+[[paper coming soon](https://shiqiu0419.github.io/)]
 * **Trade-offs in Image Generation: How Do Different Dimensions Interact?**  
 S Zhang, B Xie, Z Yan, Y Zhang, D Zhou, X Chen, <ins>S Qiu</ins>, J Liu, G Xie, Z Lu  
 IEEE International Conference on Computer Vision (**ICCV**), 2025  
