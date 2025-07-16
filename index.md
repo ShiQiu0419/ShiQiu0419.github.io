@@ -83,12 +83,12 @@ European Conference on Computer Vision (**ECCV**), 2024
 R Zhu, D Kang, KH Hui, Y Qian, <ins>S Qiu</ins>, Z Dong, L Bao, PA Heng, CW Fu  
 IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2024  
 [[CVF](https://openaccess.thecvf.com/content/WACV2024/papers/Zhu_SSP_Semi-Signed_Prioritized_Neural_Fitting_for_Surface_Reconstruction_From_Unoriented_WACV_2024_paper.pdf)][[supp](https://openaccess.thecvf.com/content/WACV2024/supplemental/Zhu_SSP_Semi-Signed_Prioritized_WACV_2024_supplemental.pdf)][[poster](https://runsong123.github.io/SSP/media/wacv24-2527.pdf)][[project page](https://github.com/Runsong123/SSP)]
+
+## Earlier Works
 * **P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds**  
 R Cui, <ins>S Qiu</ins>, S Anwar, J Liu, C Xing, J Zhang, N Barnes  
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
 [[arXiv](https://arxiv.org/abs/2307.14726)][[IEEE](https://ieeexplore.ieee.org/document/10376600)][[CVF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cui_P2C_Self-Supervised_Point_Cloud_Completion_from_Single_Partial_Clouds_ICCV_2023_paper.pdf)][[supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Cui_P2C_Self-Supervised_Point_ICCV_2023_supplemental.pdf)][[poster](https://github.com/CuiRuikai/Partial2Complete/blob/main/assets/ICCV_Poster.pdf)][[project page](https://github.com/CuiRuikai/Partial2Complete)]
-
-## Earlier Works
 * **Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion**   
 Ruikai Cui, <ins>Shi Qiu</ins>, Saeed Anwar, Jing Zhang, Nick Barnes  
 British Machine Vision Conference (**BMVC**), 2022  
