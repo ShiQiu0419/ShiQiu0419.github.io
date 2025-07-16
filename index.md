@@ -29,7 +29,7 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 * ...
 * Joined CUHK CSE. (09/2023)
 
-## Publications   
+## Recent Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
 * **Generative Multi-Sensory Meditation: Exploring Immersive Depth and Activation in Virtual Reality**  
 Y Jiang, B Xie, L Xu, X Lei, <ins>S Qiu</ins>, L Yu, P Hui  
@@ -74,11 +74,7 @@ IEEE International Conference on Artificial Intelligence & eXtended and Virtual 
 * **Advancing Extended Reality with 3D Gaussian Splatting: Innovations and Prospects**  
 <ins>S Qiu</ins>, B Xie, Q Liu, PA Heng  
 IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (**AIxVR**), 2025  
-[[arXiv](https://arxiv.org/abs/2412.06257)][[IEEE](https://ieeexplore.ieee.org/abstract/document/10896112)]
-* **NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**  
-R Cui, <ins>S Qiu</ins>, J Liu, S Anwar, N Barnes  
-Preprint, 2024  
-[[arXiv](https://arxiv.org/abs/2411.17392)][[project page](https://github.com/CuiRuikai/NumGrad-Pull)]    
+[[arXiv](https://arxiv.org/abs/2412.06257)][[IEEE](https://ieeexplore.ieee.org/abstract/document/10896112)]  
 * **PCF-Lift: Panoptic Lifting by Probabilistic Contrastive Fusion**  
 R Zhu, <ins>S Qiu</ins>, Q Wu, KH Hui, PA Heng, CW Fu  
 European Conference on Computer Vision (**ECCV**), 2024  
@@ -91,10 +87,8 @@ IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2024
 R Cui, <ins>S Qiu</ins>, S Anwar, J Liu, C Xing, J Zhang, N Barnes  
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
 [[arXiv](https://arxiv.org/abs/2307.14726)][[IEEE](https://ieeexplore.ieee.org/document/10376600)][[CVF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cui_P2C_Self-Supervised_Point_Cloud_Completion_from_Single_Partial_Clouds_ICCV_2023_paper.pdf)][[supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Cui_P2C_Self-Supervised_Point_ICCV_2023_supplemental.pdf)][[poster](https://github.com/CuiRuikai/Partial2Complete/blob/main/assets/ICCV_Poster.pdf)][[project page](https://github.com/CuiRuikai/Partial2Complete)]
-* **PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis**   
-J Hong\*, <ins>S Qiu</ins>\*, W Li, S Anwar, M Harandi, N Barnes, L Petersson  
-Preprint, 2022  
-[[arXiv](https://arxiv.org/abs/2212.02011)][[project page](https://github.com/ShiQiu0419/pointcam)]  
+
+## Earlier Works
 * **Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion**   
 Ruikai Cui, <ins>Shi Qiu</ins>, Saeed Anwar, Jing Zhang, Nick Barnes  
 British Machine Vision Conference (**BMVC**), 2022  
@@ -125,6 +119,16 @@ IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2021
 IEEE Transactions on Multimedia (**TMM**, [ESI Highly Cited Paper](https://www.webofscience.com/wos/woscc/full-record/WOS:000778959200013)), 2021  
 [[arXiv](https://arxiv.org/abs/1911.12885)][[IEEE](https://ieeexplore.ieee.org/document/9410405)][[project page](https://github.com/ShiQiu0419/GFNet)]
 
+## Technical Report
+* **NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**  
+R Cui, <ins>S Qiu</ins>, J Liu, S Anwar, N Barnes  
+Preprint, 2024  
+[[arXiv](https://arxiv.org/abs/2411.17392)][[project page](https://github.com/CuiRuikai/NumGrad-Pull)]  
+* **PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis**   
+J Hong\*, <ins>S Qiu</ins>\*, W Li, S Anwar, M Harandi, N Barnes, L Petersson  
+Preprint, 2022  
+[[arXiv](https://arxiv.org/abs/2212.02011)][[project page](https://github.com/ShiQiu0419/pointcam)]  
+
 ## Teaching
 * ENGG1125 Single Variable Calculus for Engineers (2025-2026, CUHK, **Instructor**)  
 * ENGG1120 Linear Algebra for Engineers (2023-2024, 2024-2025, CUHK, **Instructor**)  
@@ -132,7 +136,7 @@ IEEE Transactions on Multimedia (**TMM**, [ESI Highly Cited Paper](https://www.w
 * ENGN4528 Computer Vision (2021 ANU, Tutor)
 
 ## Supervising
-* Since 2025: Kaiyuan Hu, Yuqi Tong
+* Since 2025: Yuqi Tong (MPhil)
 * Since 2024: Binzhu Xie (RA), Diandian Guo (co-supervise with Prof. Heng)  
 * Since 2023: Yue Qiu, Yan Li, Yinqiao Wang, Qixuan Liu (committee member)
 * I am also a registered HDR (PhD/MPhil) supervisor at ANU since 2023.
