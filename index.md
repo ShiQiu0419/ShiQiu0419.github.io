@@ -19,7 +19,7 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 * One short paper accepted in IEEE VIS 2025. (06/2025)
 * One paper accepted in IROS 2025. (06/2025)
 * LLM Overview accepted in ACM TIST. (05/2025)
-* One paper early accepted in MICCAI 2025. (05/2025)  
+* [ClipGS](https://arxiv.org/abs/2507.06647) **early accepted & Oral** in MICCAI 2025. (05/2025)  
 * [One paper](https://arxiv.org/abs/2503.14029) accepted in CVPR 2025. (03/2025)
 * Invited as an Area Chair for ACM MM'25. (02/2025)
 * Invited as an Area Chair for MICCAI 2025. (01/2025)  
@@ -49,7 +49,7 @@ IEEE Visualization and Visual Analytics Conference (**VIS**) Short Paper, 2025
 [[arxiv](http://arxiv.org/abs/2506.22926)][[supp](https://osf.io/bpjq5/)] 
 * **ClipGS: Clippable Gaussian Splatting for Interactive Cinematic Visualization of Volumetric Medical Data**  
 C Li, Y Tong, K Chen, Z Yang, R Li, <ins>S Qiu</ins>, YK Chan, PA Heng, Q Dou  
-International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2025  
+International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI Oral**), 2025  
 [[arxiv](https://arxiv.org/abs/2507.06647)][[project page](https://med-air.github.io/ClipGS/)] 
 * **A Comprehensive Overview of Large Language Models**  
 H Naveed, AU Khan, <ins>S Qiu</ins>, M Saqib, S Anwar, M Usman, N Akhta, N Barnes, A Mian  
@@ -120,6 +120,10 @@ IEEE Transactions on Multimedia (**TMM**, [ESI Highly Cited Paper](https://www.w
 [[arXiv](https://arxiv.org/abs/1911.12885)][[IEEE](https://ieeexplore.ieee.org/document/9410405)][[project page](https://github.com/ShiQiu0419/GFNet)]
 
 ## Technical Report
+* **NoiseSDF2NoiseSDF: Learning Clean Neural Fields from Noisy Supervision**  
+T Wang, W Li, R Cui, <ins>S Qiu</ins>, N Barnes  
+Preprint, 2025  
+[[arXiv](https://arxiv.org/abs/2507.13595)] 
 * **NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**  
 R Cui, <ins>S Qiu</ins>, J Liu, S Anwar, N Barnes  
 Preprint, 2024  
