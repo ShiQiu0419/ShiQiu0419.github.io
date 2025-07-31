@@ -19,7 +19,7 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 * One short paper accepted in IEEE VIS 2025. (06/2025)
 * One paper accepted in IROS 2025. (06/2025)
 * [LLM Overview](https://dl.acm.org/doi/10.1145/3744746) accepted in ACM TIST. (05/2025)
-* [ClipGS](https://arxiv.org/abs/2507.06647) **early accepted & Oral** in MICCAI 2025. (05/2025)  
+* [ClipGS](https://arxiv.org/abs/2507.06647) *early accepted & Oral* in MICCAI 2025. (05/2025)  
 * [One paper](https://arxiv.org/abs/2503.14029) accepted in CVPR 2025. (03/2025)
 * Invited as an Area Chair for ACM MM'25. (02/2025)
 * Invited as an Area Chair for MICCAI 2025. (01/2025)  
@@ -38,11 +38,11 @@ ACM International Conference on Multimedia (**ACM MM**), 2025
 * **Trade-offs in Image Generation: How Do Different Dimensions Interact?**  
 S Zhang, B Xie, Z Yan, Y Zhang, D Zhou, X Chen, <ins>S Qiu</ins>, J Liu, G Xie, Z Lu  
 IEEE International Conference on Computer Vision (**ICCV**), 2025  
-[[paper coming soon](https://shiqiu0419.github.io/)]
+[[arxiv](https://arxiv.org/abs/2507.22100)][[project page](https://github.com/fesvhtr/TRIG)]
 * **Gaussian Splatting with Reflectance Regularization for Endoscopic Scene Reconstruction**  
 C Li, K Chen, <ins>S Qiu</ins>, YK Chan, Q Dou  
 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2025  
-[[paper coming soon](https://shiqiu0419.github.io/)] 
+[[paper coming soon](https://shiqiu0419.github.io/)][[project page](https://med-air.github.io/GSR2/)] 
 * **Coordinated 2D-3D Visualization of Volumetric Medical Data in XR with Multimodal Interactions**  
 Q Liu, <ins>S Qiu</ins>, Y Wang, X Wu, SH Chok, CW Fu, PA Heng  
 IEEE Visualization and Visual Analytics Conference (**VIS**) Short Paper, 2025  
@@ -62,11 +62,11 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025
 * **Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**  
 <ins>S Qiu</ins>, B Xie, Q Liu, PA Heng  
 IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) Posters, 2025      
-[[arXiv](https://arxiv.org/abs/2503.15507)][[demo video](https://youtu.be/XR3GzmpCdlE)] 
+[[arXiv](https://arxiv.org/abs/2501.09302)][[IEEE](https://ieeexplore.ieee.org/document/10972671)][[demo video](https://youtu.be/XR3GzmpCdlE)] 
 * **CvhSlicer 2.0: Immersive and Interactive Visualization of Chinese Visible Human Data in XR Environments**  
 Y Qiu, Y Yong, Y Zhang, Q Liu, J Pei, <ins>S Qiu</ins>, PA Heng, CW Fu  
 IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) Posters, 2025      
-[[arXiv](https://arxiv.org/abs/2501.09302)][[demo video](https://youtu.be/CfR72S_0N-4)]  
+[[arXiv](https://arxiv.org/abs/2503.15507)][[IEEE](https://ieeexplore.ieee.org/document/10972469)][[demo video](https://youtu.be/CfR72S_0N-4)]  
 * **MS2Mesh-XR: Multi-modal Sketch-to-Mesh Generation in XR Environments**  
 Y Tong, Y Qiu, R Li, <ins>S Qiu</ins>, PA Heng  
 IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (**AIxVR**), 2025    
