@@ -139,7 +139,7 @@ Preprint, 2022
 * COMP6670 Introduction to Machine Learning (2020-2021, ANU, Tutor)  
 * ENGN4528 Computer Vision (2021 ANU, Tutor)
 
-## Supervising
+## Supervision
 * Since 2025: Binzhu Xie (PhD), Yuqi Tong (MPhil), Difu Tan, Fangyuan Gao (MSc)
 * Since 2024: Binzhu Xie (RA), Diandian Guo (co-supervise with Prof. Heng)  
 * Since 2023: Yue Qiu, Yan Li, Yinqiao Wang, Qixuan Liu (committee member)
