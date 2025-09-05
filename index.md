@@ -14,6 +14,7 @@ For PhD/MPhil/RA applicants: I currently do not have a clear plan for the 2026 i
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* Invited as an Area Chair for ICLR 2026. (09/2025)
 * One paper accepted in ACM MM'25. (07/2025)
 * One paper accepted in ICCV 2025. (06/2025)
 * One paper accepted in IEEE VIS 2025. (06/2025)
@@ -146,7 +147,7 @@ Preprint, 2022
 * I am also a registered HDR (PhD/MPhil) supervisor at ANU since 2023.
 
 ## Professional Services
-* Area Chair: ACM MM'24, ACM MM'25, MICCAI 2025.
+* Area Chair: ACM MM'24, ACM MM'25, MICCAI 2025, ICLR 2026.
 * Conference Reviewer: CVPR, ICCV, ECCV, AAAI, MICCAI, VR, ISMAR, etc.
 * Journal Reviewer: TOG, TVCG, TIP, TMM, TCSVT, PR, RA-L, ISPRS, etc.
 
