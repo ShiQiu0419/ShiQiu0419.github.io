@@ -34,7 +34,7 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 ## Recent Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
 * **COS3D: Collaborative Open-Vocabulary 3D Segmentation**   
-R Zhu, KH Hui, Z Liu, Q Wu, W Tang, <ins>Shi Qiu</ins>, PA Heng, CW Fu  
+R Zhu, KH Hui, Z Liu, Q Wu, W Tang, <ins>S Qiu</ins>, PA Heng, CW Fu  
 The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025  
 [[paper coming soon](https://shiqiu0419.github.io/)]
 * **Generative Multi-Sensory Meditation: Exploring Immersive Depth and Activation in Virtual Reality**  
