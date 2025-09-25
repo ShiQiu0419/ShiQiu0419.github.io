@@ -14,6 +14,7 @@ For PhD/MPhil/RA applicants: I currently do not have a clear plan for the 2026 i
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* One paper accepted in NeurIPS 2025. (09/2025)
 * Invited as an Area Chair for ICLR 2026. (09/2025)
 * One paper accepted in ACM MM'25. (07/2025)
 * One paper accepted in ICCV 2025. (06/2025)
@@ -32,6 +33,10 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Recent Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* **COS3D: Collaborative Open-Vocabulary 3D Segmentation**   
+R Zhu, KH Hui, Z Liu, Q Wu, W Tang, <ins>Shi Qiu</ins>, PA Heng, CW Fu  
+International Conference on Neural Information Processing Systems (**NeurIPS**), 2026
+[[paper coming soon](https://shiqiu0419.github.io/)]
 * **Generative Multi-Sensory Meditation: Exploring Immersive Depth and Activation in Virtual Reality**  
 Y Jiang, B Xie, L Xu, X Lei, <ins>S Qiu</ins>, L Yu, P Hui  
 ACM International Conference on Multimedia (**ACM MM**), 2025  
@@ -123,7 +128,7 @@ IEEE Transactions on Multimedia (**TMM**, [ESI Highly Cited Paper](https://www.w
 ## Technical Report
 * **NoiseSDF2NoiseSDF: Learning Clean Neural Fields from Noisy Supervision**  
 T Wang, W Li, R Cui, <ins>S Qiu</ins>, N Barnes  
-Preprint, 2025  
+Proudly being rejected by NeurIPS 2026 with ALL positive ratings (4,4,5,5)  
 [[arXiv](https://arxiv.org/abs/2507.13595)] 
 * **NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**  
 R Cui, <ins>S Qiu</ins>, J Liu, S Anwar, N Barnes  
