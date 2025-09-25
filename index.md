@@ -128,7 +128,7 @@ IEEE Transactions on Multimedia (**TMM**, [ESI Highly Cited Paper](https://www.w
 ## Technical Report
 * **NoiseSDF2NoiseSDF: Learning Clean Neural Fields from Noisy Supervision**  
 T Wang, W Li, R Cui, <ins>S Qiu</ins>, N Barnes  
-Proudly being rejected by NeurIPS 2026 with ALL positive ratings (4,4,5,5)  
+Proudly being rejected by NeurIPS 2025 with ALL positive ratings (4,4,5,5)  
 [[arXiv](https://arxiv.org/abs/2507.13595)] 
 * **NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**  
 R Cui, <ins>S Qiu</ins>, J Liu, S Anwar, N Barnes  
