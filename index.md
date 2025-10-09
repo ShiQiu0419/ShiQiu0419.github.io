@@ -36,7 +36,7 @@ Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVth
 * **COS3D: Collaborative Open-Vocabulary 3D Segmentation**   
 R Zhu, KH Hui, Z Liu, Q Wu, W Tang, <ins>S Qiu</ins>, PA Heng, CW Fu  
 Conference on Neural Information Processing Systems (**NeurIPS**), 2025  
-[[paper coming soon](https://shiqiu0419.github.io/)]
+[[paper coming soon](https://shiqiu0419.github.io/)][[NeurIPS](https://neurips.cc/virtual/2025/poster/119686)]
 * **Generative Multi-Sensory Meditation: Exploring Immersive Depth and Activation in Virtual Reality**  
 Y Jiang, B Xie, L Xu, X Lei, <ins>S Qiu</ins>, L Yu, P Hui  
 ACM International Conference on Multimedia (**ACM MM**), 2025  
@@ -56,7 +56,7 @@ IEEE Visualization and Visual Analytics Conference (**VIS**) Short Paper, 2025
 * **ClipGS: Clippable Gaussian Splatting for Interactive Cinematic Visualization of Volumetric Medical Data**  
 C Li, Y Tong, K Chen, Z Yang, R Li, <ins>S Qiu</ins>, YK Chan, PA Heng, Q Dou  
 International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI Oral**), 2025  
-[[arxiv](https://arxiv.org/abs/2507.06647)][[project page](https://med-air.github.io/ClipGS/)] 
+[[arxiv](https://arxiv.org/abs/2507.06647)][[MICCAI](https://link.springer.com/chapter/10.1007/978-3-032-05127-1_13)][[project page](https://med-air.github.io/ClipGS/)] 
 * **A Comprehensive Overview of Large Language Models**  
 H Naveed, AU Khan, <ins>S Qiu</ins>, M Saqib, S Anwar, M Usman, N Akhta, N Barnes, A Mian  
 ACM Transactions on Intelligent Systems and Technology (**TIST**), 2025  
