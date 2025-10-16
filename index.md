@@ -40,7 +40,7 @@ Conference on Neural Information Processing Systems (**NeurIPS**), 2025
 * **Generative Multi-Sensory Meditation: Exploring Immersive Depth and Activation in Virtual Reality**  
 Y Jiang, B Xie, L Xu, X Lei, <ins>S Qiu</ins>, L Yu, P Hui  
 ACM International Conference on Multimedia (**ACM MM**), 2025  
-[[paper coming soon](https://shiqiu0419.github.io/)]
+[[arxiv](https://arxiv.org/abs/2510.11830)][[ACM coming soon](https://shiqiu0419.github.io/)]
 * **Trade-offs in Image Generation: How Do Different Dimensions Interact?**  
 S Zhang, B Xie, Z Yan, Y Zhang, D Zhou, X Chen, <ins>S Qiu</ins>, J Liu, G Xie, Z Lu  
 IEEE International Conference on Computer Vision (**ICCV**), 2025  
