@@ -14,20 +14,20 @@ For PhD/MPhil/RA applicants: I currently do not have a clear plan for the 2026 i
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
-* One paper accepted in NeurIPS 2025. (09/2025)
+* [COS3D](https://arxiv.org/abs/2510.20238) accepted in NeurIPS 2025. (09/2025)
 * Invited as an Area Chair for ICLR 2026. (09/2025)
 * One paper accepted in ACM MM'25. (07/2025)
 * One paper accepted in ICCV 2025. (06/2025)
 * One paper accepted in IEEE VIS 2025. (06/2025)
 * One paper accepted in IROS 2025. (06/2025)
 * [LLM Overview](https://dl.acm.org/doi/10.1145/3744746) accepted in ACM TIST. (05/2025)
-* [ClipGS](https://arxiv.org/abs/2507.06647) early accepted & Oral in MICCAI 2025. (05/2025)  
-* [One paper](https://arxiv.org/abs/2503.14029) accepted in CVPR 2025. (03/2025)
+* One paper early accepted & Oral in MICCAI 2025. (05/2025)  
+* One paper accepted in CVPR 2025. (03/2025)
 * Invited as an Area Chair for ACM MM'25. (02/2025)
 * Invited as an Area Chair for MICCAI 2025. (01/2025)  
 * Two posters accepted in IEEE VR 2025. (01/2025)
 * Two papers accepted in IEEE AIxVR 2025. (11/2024)
-* [One paper](https://link.springer.com/chapter/10.1007/978-3-031-72627-9_6) accepted in ECCV 2024. (06/2024)
+* One paper accepted in ECCV 2024. (06/2024)
 * ...
 * Joined CUHK CSE. (09/2023)
 
@@ -36,7 +36,7 @@ Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVth
 * **COS3D: Collaborative Open-Vocabulary 3D Segmentation**   
 R Zhu, KH Hui, Z Liu, Q Wu, W Tang, <ins>S Qiu</ins>, PA Heng, CW Fu  
 Conference on Neural Information Processing Systems (**NeurIPS**), 2025  
-[[paper coming soon](https://shiqiu0419.github.io/)][[NeurIPS](https://neurips.cc/virtual/2025/poster/119686)]
+[[arxiv](https://arxiv.org/abs/2510.20238)][[NeurIPS](https://neurips.cc/virtual/2025/poster/119686)]
 * **Generative Multi-Sensory Meditation: Exploring Immersive Depth and Activation in Virtual Reality**  
 Y Jiang, B Xie, L Xu, X Lei, <ins>S Qiu</ins>, L Yu, P Hui  
 ACM International Conference on Multimedia (**ACM MM**), 2025  
