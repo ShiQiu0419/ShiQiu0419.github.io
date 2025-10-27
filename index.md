@@ -34,7 +34,7 @@ Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVth
 * **COS3D: Collaborative Open-Vocabulary 3D Segmentation**   
 R Zhu, KH Hui, Z Liu, Q Wu, W Tang, <ins>S Qiu</ins>, PA Heng, CW Fu  
 Conference on Neural Information Processing Systems (**NeurIPS**), 2025  
-[[arxiv](https://arxiv.org/abs/2510.20238)][[NeurIPS](https://neurips.cc/virtual/2025/poster/119686)]
+[[arxiv](https://arxiv.org/abs/2510.20238)][[NeurIPS](https://neurips.cc/virtual/2025/poster/119686)][[project page](https://github.com/Runsong123/COS3D)]
 * **Generative Multi-Sensory Meditation: Exploring Immersive Depth and Activation in Virtual Reality**  
 Y Jiang, B Xie, L Xu, X Lei, <ins>S Qiu</ins>, L Yu, P Hui  
 ACM International Conference on Multimedia (**ACM MM**), 2025  
