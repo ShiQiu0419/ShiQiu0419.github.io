@@ -46,7 +46,7 @@ IEEE International Conference on Computer Vision (**ICCV**), 2025
 * **Gaussian Splatting with Reflectance Regularization for Endoscopic Scene Reconstruction**  
 C Li, K Chen, <ins>S Qiu</ins>, YK Chan, Q Dou  
 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2025  
-[[paper coming soon](https://shiqiu0419.github.io/)][[project page](https://med-air.github.io/GSR2/)] 
+[[IEEE](https://ieeexplore.ieee.org/document/11247248)][[project page](https://med-air.github.io/GSR2/)] 
 * **Coordinated 2D-3D Visualization of Volumetric Medical Data in XR with Multimodal Interactions**  
 Q Liu, <ins>S Qiu</ins>, Y Wang, X Wu, SH Chok, CW Fu, PA Heng  
 IEEE Visualization and Visual Analytics Conference (**VIS**) Short Paper, 2025  
