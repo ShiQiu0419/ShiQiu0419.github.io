@@ -14,7 +14,8 @@ For PhD/MPhil/RA applicants: I currently do not have a clear plan for the 2026 i
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
-* [COS3D](https://arxiv.org/abs/2510.20238) accepted in NeurIPS 2025. (09/2025)
+* Two posters accepted in IEEE VR 2026. (01/2026)
+* One paper accepted in NeurIPS 2025. (09/2025)
 * Invited as an Area Chair for ICLR 2026. (09/2025)
 * One paper accepted in ACM MM'25. (07/2025)
 * One paper accepted in ICCV 2025. (06/2025)
