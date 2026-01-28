@@ -33,6 +33,18 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Recent Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* **EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning**   
+B Xie, <ins>S Qiu</ins>, S Zhang, Y Wang, H Xu, M Naseer, CW Fu, PA Heng   
+International Conference on Learning Representations (**ICLR**), 2026  
+[[arxiv](https://arxiv.org/abs/2601.19850)][[openreview](https://openreview.net/forum?id=nwjy9BeorI)][[project page](https://github.com/Nicous20/EgoHandICL)]
+* **A Collaborative Extended Reality Prototype for 3D Surgical Planning and Visualization**  
+<ins>S Qiu</ins>, R Li, Q Liu, Y Tong, Y Qiu, Y Wang, Y Li, CW Fu, PA Heng  
+IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) Posters, 2026      
+[[arXiv](https://arxiv.org/abs/2601.19303)][[IEEE](https://shiqiu0419.github.io/)][[demo video](https://shiqiu0419.github.io/)] 
+* **ClipGS-VR: Immersive and Interactive Cinematic Visualization of Volumetric Medical Data in Mobile Virtual Reality**  
+Y Tong, R Li, C Li, Q Liu, <ins>S Qiu</ins>, PA Heng  
+IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) Posters, 2026      
+[[arXiv](https://arxiv.org/abs/2601.19310)][[IEEE](https://shiqiu0419.github.io/)][[demo video](https://shiqiu0419.github.io/)] 
 * **COS3D: Collaborative Open-Vocabulary 3D Segmentation**   
 R Zhu, KH Hui, Z Liu, Q Wu, W Tang, <ins>S Qiu</ins>, PA Heng, CW Fu  
 Conference on Neural Information Processing Systems (**NeurIPS**), 2025  
@@ -70,7 +82,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025
 IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) Posters, 2025      
 [[arXiv](https://arxiv.org/abs/2501.09302)][[IEEE](https://ieeexplore.ieee.org/document/10972671)][[demo video](https://youtu.be/XR3GzmpCdlE)] 
 * **CvhSlicer 2.0: Immersive and Interactive Visualization of Chinese Visible Human Data in XR Environments**  
-Y Qiu, Y Yong, Y Zhang, Q Liu, J Pei, <ins>S Qiu</ins>, PA Heng, CW Fu  
+Y Qiu, Y Tong, Y Zhang, Q Liu, J Pei, <ins>S Qiu</ins>, PA Heng, CW Fu  
 IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) Posters, 2025      
 [[arXiv](https://arxiv.org/abs/2503.15507)][[IEEE](https://ieeexplore.ieee.org/document/10972469)][[demo video](https://youtu.be/CfR72S_0N-4)]  
 * **MS2Mesh-XR: Multi-modal Sketch-to-Mesh Generation in XR Environments**  
