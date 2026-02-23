@@ -14,7 +14,7 @@ For PhD/MPhil/RA applicants: I currently do not have a clear plan for the 2026 i
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
-* My first research work, [GBNet](https://ieeexplore.ieee.org/document/9410405), has been recognized as IEEE Signal Processing Society’s top 25 downloaded articles from Sept. 2024 - Sept. 2025 for IEEE Transactions on Multimedia on IEEE Xplore.
+* My first research work, [GBNet](https://ieeexplore.ieee.org/document/9410405), has been recognized as IEEE Signal Processing Society’s top 25 downloaded articles from Sept. 2024 - Sept. 2025 for IEEE Transactions on Multimedia on IEEE Xplore. (02/2026)
 * [EgoHandICL](https://arxiv.org/abs/2601.19850) accepted in ICLR 2026. Congrats to Binzhu! (01/2026)
 * Two posters accepted in IEEE VR 2026. (01/2026)
 * One paper accepted in NeurIPS 2025. (09/2025)
