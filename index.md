@@ -135,7 +135,8 @@ IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2021
 [[arXiv](https://arxiv.org/abs/2005.06734)][[IEEE](https://ieeexplore.ieee.org/document/9423047)][[CVF](https://openaccess.thecvf.com/content/WACV2021/papers/Qiu_Dense-Resolution_Network_for_Point_Cloud_Classification_and_Segmentation_WACV_2021_paper.pdf)][[supp](https://openaccess.thecvf.com/content/WACV2021/supplemental/Qiu_Dense-Resolution_Network_for_WACV_2021_supplemental.pdf)][[oral video](https://youtu.be/TnbksHzaJzw)][[project page](https://github.com/ShiQiu0419/DRNet)] 
 * **Geometric Back-projection Network for Point Cloud Classification**  
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
-IEEE Transactions on Multimedia (**TMM**, [ESI Highly Cited Paper](https://www.webofscience.com/wos/woscc/full-record/WOS:000778959200013), IEEE Signal Processing Society’s top 25 downloaded articles from Sept. 2024 - Sept. 2025 for IEEE Transactions on Multimedia on IEEE Xplore), 2021  
+IEEE Transactions on Multimedia (**TMM**, [ESI Highly Cited Paper](https://www.webofscience.com/wos/woscc/full-record/WOS:000778959200013)), 2021
+IEEE Signal Processing Society’s top 25 downloaded articles from Sept. 2024 - Sept. 2025 for IEEE Transactions on Multimedia on IEEE Xplore  
 [[arXiv](https://arxiv.org/abs/1911.12885)][[IEEE](https://ieeexplore.ieee.org/document/9410405)][[project page](https://github.com/ShiQiu0419/GFNet)]
 
 ## Technical Report
