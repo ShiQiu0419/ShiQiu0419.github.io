@@ -136,7 +136,7 @@ IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2021
 * **Geometric Back-projection Network for Point Cloud Classification**  
 <ins>Shi Qiu</ins>, Saeed Anwar, Nick Barnes  
 IEEE Transactions on Multimedia (**TMM**, [ESI Highly Cited Paper](https://www.webofscience.com/wos/woscc/full-record/WOS:000778959200013)), 2021
-IEEE Signal Processing Society’s top 25 downloaded articles from Sept. 2024 - Sept. 2025 for IEEE Transactions on Multimedia on IEEE Xplore  
+IEEE Signal Processing Society’s top 25 downloaded articles from Sept. 2024 - Sept. 2025 for IEEE Transactions on Multimedia on IEEE Xplore
 [[arXiv](https://arxiv.org/abs/1911.12885)][[IEEE](https://ieeexplore.ieee.org/document/9410405)][[project page](https://github.com/ShiQiu0419/GFNet)]
 
 ## Technical Report
