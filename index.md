@@ -168,7 +168,7 @@ Preprint, 2022
 * I am also a registered HDR (PhD/MPhil) supervisor at ANU since 2023.
 
 ## Professional Services
-* Area Chair: ACM MM'24, ACM MM'25, MICCAI 2025, ICLR 2026.
+* Area Chair: ACM MM'24-26, MICCAI 2025, ICLR 2026, NeurIPS 2026.
 * Conference Reviewer: CVPR, ICCV, ECCV, AAAI, MICCAI, VR, ISMAR, etc.
 * Journal Reviewer: TOG, TVCG, TIP, TMM, TCSVT, PR, RA-L, ISPRS, etc.
 
