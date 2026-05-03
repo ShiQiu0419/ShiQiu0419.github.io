@@ -14,6 +14,7 @@ For PhD/MPhil/RA applicants: I currently do not have a clear plan for the 2026 i
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* [NoiseSDF2NoiseSDF](https://arxiv.org/abs/2507.13595) accepted in ICML 2026. (04/2026)
 * Invited as an Area Chair for NeurIPS 2026. (03/2026)
 * Invited as an Area Chair for ACM MM'26. (02/2026)
 * My first research work, [GBNet](https://ieeexplore.ieee.org/document/9410405), has been recognized as IEEE Signal Processing Society’s top 25 downloaded articles (09/2024-09/2025) for IEEE Transactions on Multimedia on IEEE Xplore.
@@ -36,6 +37,10 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Recent Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* * **NoiseSDF2NoiseSDF: Learning Clean Neural Fields from Noisy Supervision**  
+T Wang, W Li, R Cui, <ins>S Qiu</ins>, N Barnes  
+International Conference on Machine Learning (**ICML**), 2026
+[[arXiv](https://arxiv.org/abs/2507.13595)][[ICLR 2026](https://openreview.net/forum?id=NCxjfPjd3z) rejected with 3 positive ratings][[NeurIPS 2026](https://openreview.net/forum?id=t2RdzbtBk5) rejected with ALL positive ratings] 
 * **EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning**   
 B Xie, <ins>S Qiu</ins>, S Zhang, Y Wang, H Xu, M Naseer, CW Fu, PA Heng   
 International Conference on Learning Representations (**ICLR**), 2026  
@@ -142,10 +147,6 @@ IEEE Signal Processing Society’s top 25 downloaded articles from Sept. 2024 - 
 [[arXiv](https://arxiv.org/abs/1911.12885)][[IEEE](https://ieeexplore.ieee.org/document/9410405)][[project page](https://github.com/ShiQiu0419/GFNet)]
 
 ## Technical Report
-* **NoiseSDF2NoiseSDF: Learning Clean Neural Fields from Noisy Supervision**  
-T Wang, W Li, R Cui, <ins>S Qiu</ins>, N Barnes  
-Proudly being rejected by NeurIPS 2025 with ALL positive ratings (4,4,5,5)  
-[[arXiv](https://arxiv.org/abs/2507.13595)] 
 * **NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**  
 R Cui, <ins>S Qiu</ins>, J Liu, S Anwar, N Barnes  
 Preprint, 2024  
