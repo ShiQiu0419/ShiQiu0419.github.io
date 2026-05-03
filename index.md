@@ -39,8 +39,8 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
 * **NoiseSDF2NoiseSDF: Learning Clean Neural Fields from Noisy Supervision**  
 T Wang, W Li, R Cui, <ins>S Qiu</ins>, N Barnes  
-International Conference on Machine Learning (**ICML**), 2026
-[[arXiv](https://arxiv.org/abs/2507.13595)][[ICLR 2026](https://openreview.net/forum?id=NCxjfPjd3z) rejected with 3 positive ratings][[NeurIPS 2026](https://openreview.net/forum?id=t2RdzbtBk5) rejected with ALL positive ratings] 
+International Conference on Machine Learning (**ICML**), 2026  
+[[arXiv](https://arxiv.org/abs/2507.13595)][[ICLR 2026](https://openreview.net/forum?id=NCxjfPjd3z) (rejected with 3 positive ratings)][[NeurIPS 2026](https://openreview.net/forum?id=t2RdzbtBk5) (rejected with ALL positive ratings)] 
 * **EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning**   
 B Xie, <ins>S Qiu</ins>, S Zhang, Y Wang, H Xu, M Naseer, CW Fu, PA Heng   
 International Conference on Learning Representations (**ICLR**), 2026  
