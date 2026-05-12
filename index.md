@@ -14,6 +14,7 @@ For PhD/MPhil/RA applicants: I currently do not have a clear plan for the 2026 i
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* One paper accepted in CVIU. (05/2026)
 * [NoiseSDF2NoiseSDF](https://arxiv.org/abs/2507.13595) accepted in ICML 2026. (04/2026)
 * Invited as an Area Chair for NeurIPS 2026. (03/2026)
 * Invited as an Area Chair for ACM MM'26. (02/2026)
@@ -37,12 +38,16 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Recent Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* * **PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis**   
+J Hong\*, <ins>S Qiu</ins>\*, W Li, S Anwar, M Harandi, N Barnes, L Petersson  
+Computer Vision and Image Understanding (**CVIU**), 2026  
+[[arXiv](https://arxiv.org/abs/2212.02011)][[project page](https://github.com/ShiQiu0419/pointcam)]  
 * **NoiseSDF2NoiseSDF: Learning Clean Neural Fields from Noisy Supervision**  
 T Wang, W Li, R Cui, <ins>S Qiu</ins>, N Barnes  
 International Conference on Machine Learning (**ICML**), 2026  
 [[arXiv](https://arxiv.org/abs/2507.13595)][openreview: [ICLR 2026](https://openreview.net/forum?id=NCxjfPjd3z), [NeurIPS 2026](https://openreview.net/forum?id=t2RdzbtBk5)] 
 * **EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning**   
-B Xie, <ins>S Qiu</ins>, S Zhang, Y Wang, H Xu, M Naseer, CW Fu, PA Heng   
+B Xie\*, <ins>S Qiu</ins>\*, S Zhang, Y Wang, H Xu, M Naseer, CW Fu, PA Heng   
 International Conference on Learning Representations (**ICLR**), 2026  
 [[arxiv](https://arxiv.org/abs/2601.19850)][[openreview](https://openreview.net/forum?id=nwjy9BeorI)][[project page](https://github.com/Nicous20/EgoHandICL)]
 * **A Collaborative Extended Reality Prototype for 3D Surgical Planning and Visualization**  
@@ -101,6 +106,8 @@ IEEE International Conference on Artificial Intelligence & eXtended and Virtual 
 <ins>S Qiu</ins>, B Xie, Q Liu, PA Heng  
 IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (**AIxVR**), 2025  
 [[arXiv](https://arxiv.org/abs/2412.06257)][[IEEE](https://ieeexplore.ieee.org/abstract/document/10896112)]  
+
+## Earlier Works
 * **PCF-Lift: Panoptic Lifting by Probabilistic Contrastive Fusion**  
 R Zhu, <ins>S Qiu</ins>, Q Wu, KH Hui, PA Heng, CW Fu  
 European Conference on Computer Vision (**ECCV**), 2024  
@@ -109,8 +116,6 @@ European Conference on Computer Vision (**ECCV**), 2024
 R Zhu, D Kang, KH Hui, Y Qian, <ins>S Qiu</ins>, Z Dong, L Bao, PA Heng, CW Fu  
 IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2024  
 [[CVF](https://openaccess.thecvf.com/content/WACV2024/papers/Zhu_SSP_Semi-Signed_Prioritized_Neural_Fitting_for_Surface_Reconstruction_From_Unoriented_WACV_2024_paper.pdf)][[supp](https://openaccess.thecvf.com/content/WACV2024/supplemental/Zhu_SSP_Semi-Signed_Prioritized_WACV_2024_supplemental.pdf)][[poster](https://runsong123.github.io/SSP/media/wacv24-2527.pdf)][[project page](https://github.com/Runsong123/SSP)]
-
-## Earlier Works
 * **P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds**  
 R Cui, <ins>S Qiu</ins>, S Anwar, J Liu, C Xing, J Zhang, N Barnes  
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
@@ -151,10 +156,6 @@ IEEE Signal Processing Society’s top 25 downloaded articles from Sept. 2024 - 
 R Cui, <ins>S Qiu</ins>, J Liu, S Anwar, N Barnes  
 Preprint, 2024  
 [[arXiv](https://arxiv.org/abs/2411.17392)][[project page](https://github.com/CuiRuikai/NumGrad-Pull)]  
-* **PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis**   
-J Hong\*, <ins>S Qiu</ins>\*, W Li, S Anwar, M Harandi, N Barnes, L Petersson  
-Preprint, 2022  
-[[arXiv](https://arxiv.org/abs/2212.02011)][[project page](https://github.com/ShiQiu0419/pointcam)]  
 
 ## Teaching
 * ENGG1125 Single Variable Calculus for Engineers (2025-2026, CUHK, **Instructor**)  
