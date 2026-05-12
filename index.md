@@ -38,7 +38,7 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Recent Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
-* * **PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis**   
+* **PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis**   
 J Hong\*, <ins>S Qiu</ins>\*, W Li, S Anwar, M Harandi, N Barnes, L Petersson  
 Computer Vision and Image Understanding (**CVIU**), 2026  
 [[arXiv](https://arxiv.org/abs/2212.02011)][[project page](https://github.com/ShiQiu0419/pointcam)]  
