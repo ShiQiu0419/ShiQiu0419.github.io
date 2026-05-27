@@ -41,7 +41,7 @@ Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVth
 * **PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis**   
 J Hong\*, <ins>S Qiu</ins>\*, W Li, S Anwar, M Harandi, N Barnes, L Petersson  
 Computer Vision and Image Understanding (**CVIU**), 2026  
-[[arXiv](https://arxiv.org/abs/2212.02011)][[project page](https://github.com/ShiQiu0419/pointcam)]  
+[[arXiv](https://arxiv.org/abs/2212.02011)][[Elsevier](https://www.sciencedirect.com/science/article/pii/S1077314226001815)][[project page](https://github.com/ShiQiu0419/pointcam)]  
 * **NoiseSDF2NoiseSDF: Learning Clean Neural Fields from Noisy Supervision**  
 T Wang, W Li, R Cui, <ins>S Qiu</ins>, N Barnes  
 International Conference on Machine Learning (**ICML**), 2026  
