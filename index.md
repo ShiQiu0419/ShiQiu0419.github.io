@@ -14,6 +14,7 @@ For PhD/MPhil/RA applicants: I currently do not have any plan for the 2027 intak
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* [Invited talk](https://hkage.org.hk/flyer/6617_E2CSC001T_en.pdf), The Hong Kong Academy for Gifted Education. (05/2026)
 * One paper accepted in CVIU. (05/2026)
 * [NoiseSDF2NoiseSDF](https://arxiv.org/abs/2507.13595) accepted in ICML 2026. (04/2026)
 * Invited as an Area Chair for NeurIPS 2026. (03/2026)
