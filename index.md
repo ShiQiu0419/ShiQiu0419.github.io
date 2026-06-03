@@ -52,11 +52,11 @@ International Conference on Learning Representations (**ICLR**), 2026
 * **A Collaborative Extended Reality Prototype for 3D Surgical Planning and Visualization**  
 <ins>S Qiu</ins>, R Li, Q Liu, Y Tong, Y Qiu, Y Wang, Y Li, CW Fu, PA Heng  
 IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) Posters, 2026      
-[[arXiv](https://arxiv.org/abs/2601.19303)][[IEEE](https://shiqiu0419.github.io/)][[demo video](https://shiqiu0419.github.io/)] 
+[[arXiv](https://arxiv.org/abs/2601.19303)][[IEEE](https://ieeexplore.ieee.org/document/11489827)][[demo video](https://shiqiu0419.github.io/)] 
 * **ClipGS-VR: Immersive and Interactive Cinematic Visualization of Volumetric Medical Data in Mobile Virtual Reality**  
 Y Tong, R Li, C Li, Q Liu, <ins>S Qiu</ins>, PA Heng  
 IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) Posters, 2026      
-[[arXiv](https://arxiv.org/abs/2601.19310)][[IEEE](https://shiqiu0419.github.io/)][[demo video](https://shiqiu0419.github.io/)] 
+[[arXiv](https://arxiv.org/abs/2601.19310)][[IEEE](https://ieeexplore.ieee.org/document/11489737)][[demo video](https://shiqiu0419.github.io/)] 
 * **COS3D: Collaborative Open-Vocabulary 3D Segmentation**   
 R Zhu, KH Hui, Z Liu, Q Wu, W Tang, <ins>S Qiu</ins>, PA Heng, CW Fu  
 Conference on Neural Information Processing Systems (**NeurIPS**), 2025  
@@ -68,7 +68,7 @@ ACM International Conference on Multimedia (**ACM MM**), 2025
 * **Trade-offs in Image Generation: How Do Different Dimensions Interact?**  
 S Zhang, B Xie, Z Yan, Y Zhang, D Zhou, X Chen, <ins>S Qiu</ins>, J Liu, G Xie, Z Lu  
 IEEE International Conference on Computer Vision (**ICCV**), 2025  
-[[arxiv](https://arxiv.org/abs/2507.22100)][[project page](https://github.com/fesvhtr/TRIG)]
+[[arxiv](https://arxiv.org/abs/2507.22100)][[CVF](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Trade-offs_in_Image_Generation_How_Do_Different_Dimensions_Interact_ICCV_2025_paper.pdf)][[project page](https://github.com/fesvhtr/TRIG)]
 * **Gaussian Splatting with Reflectance Regularization for Endoscopic Scene Reconstruction**  
 C Li, K Chen, <ins>S Qiu</ins>, YK Chan, Q Dou  
 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2025  
@@ -76,7 +76,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 
 * **Coordinated 2D-3D Visualization of Volumetric Medical Data in XR with Multimodal Interactions**  
 Q Liu, <ins>S Qiu</ins>, Y Wang, X Wu, SH Chok, CW Fu, PA Heng  
 IEEE Visualization and Visual Analytics Conference (**VIS**) Short Paper, 2025  
-[[arxiv](http://arxiv.org/abs/2506.22926)][[supp](https://osf.io/bpjq5/)] 
+[[arxiv](http://arxiv.org/abs/2506.22926)][[IEEE](https://ieeexplore.ieee.org/document/11298894)][[supp](https://osf.io/bpjq5/)] 
 * **ClipGS: Clippable Gaussian Splatting for Interactive Cinematic Visualization of Volumetric Medical Data**  
 C Li, Y Tong, K Chen, Z Yang, R Li, <ins>S Qiu</ins>, YK Chan, PA Heng, Q Dou  
 International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI Oral**), 2025  
