@@ -34,7 +34,6 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 * Invited as an Area Chair for ACM MM'25. (02/2025)
 * Invited as an Area Chair for MICCAI 2025. (01/2025)  
 * ...
-* Joined CUHK CSE. (09/2023)
 
 ## Recent Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
