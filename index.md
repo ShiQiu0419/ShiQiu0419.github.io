@@ -39,6 +39,10 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Recent Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* **UniLiver: Gradient-Conditioned Unified Model for Multi-target Hepatic Segmentation**
+Y Qiu, <ins>S Qiu</ins>, PA Heng, CW Fu
+International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI Early Accepted**), 2026  
+[[arXiv](https://shiqiu0419.github.io/)][[MICCAI](https://shiqiu0419.github.io/)][[project page](https://github.com/YueQiu0911/UniLiver)]
 * **PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis**   
 J Hong\*, <ins>S Qiu</ins>\*, W Li, S Anwar, M Harandi, N Barnes, L Petersson  
 Computer Vision and Image Understanding (**CVIU**), 2026  
