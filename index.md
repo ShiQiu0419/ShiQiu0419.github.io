@@ -39,10 +39,30 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Recent Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* **ReasonCLIP-58M: Visually Grounded Commonsense Reasoning Supervision for CLIP**  
+S Zhang, M Naseer, B Xie, N Suryanto, <ins>S Qiu</ins>, J Bentahar, N Akhtar, M Shah  
+European Conference on Computer Vision (**ECCV**), 2026  
+[[arXiv](https://arxiv.org/abs/2606.26794)][[ECVA](https://shiqiu0419.github.io/)][[project page](https://github.com/RISys-Lab/ReasonCLIP)][[model](https://hf.co/collections/RISys-Lab/reasonclip-models)][[dataset](https://hf.co/collections/RISys-Lab/reasonclip-data)][[benchmark](https://hf.co/datasets/RISys-Lab/RCLIP-Bench)] 
 * **UniLiver: Gradient-Conditioned Unified Model for Multi-target Hepatic Segmentation**  
 Y Qiu, <ins>S Qiu</ins>, PA Heng, CW Fu  
 International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI Early Accepted**), 2026  
 [[arXiv](https://shiqiu0419.github.io/)][[MICCAI](https://shiqiu0419.github.io/)][[project page](https://github.com/YueQiu0911/UniLiver)]
+* **Toward Synergistic Learning for Liver Vessel and Couinaud Segmentations**  
+Y Qiu, Y Li, Y Tong, Q Liu, Q Yang, <ins>S Qiu</ins>, PA Heng, CW Fu  
+International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2026  
+[[arXiv](https://shiqiu0419.github.io/)][[MICCAI](https://shiqiu0419.github.io/)][[project page](https://github.com/YueQiu0911/VSA-Liver)]
+* **Surgical Video Temporal Grounding**  
+Q Liu, <ins>S Qiu</ins>, X Wu, B Xie, CW Fu, PA Heng  
+International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2026  
+[[arXiv](https://shiqiu0419.github.io/)][[MICCAI](https://shiqiu0419.github.io/)][[project page](https://github.com/Mr-Kill/SurgicalVideoTemporalGrounding)]
+* **LangOR: 3D Language Field Reconstruction for Operating Room**  
+W Li, R Li, J Pei, H Sun, <ins>S Qiu</ins>, PA Heng  
+International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2026  
+[[arXiv](https://shiqiu0419.github.io/)][[MICCAI](https://shiqiu0419.github.io/)][[project page](https://github.com/Selena1105/LangOR)]
+* **SSPT: Spiking Serialized Point Transformer for Couinaud Segmentation in 3D Medical Data**  
+Y Li, R Li, Y Qiu, Q Liu, J Pei, <ins>S Qiu</ins>, PA Heng  
+International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2026  
+[[arXiv](https://shiqiu0419.github.io/)][[MICCAI](https://shiqiu0419.github.io/)][[project page](https://github.com/Yan0918/SSPT)]
 * **PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis**   
 J Hong\*, <ins>S Qiu</ins>\*, W Li, S Anwar, M Harandi, N Barnes, L Petersson  
 Computer Vision and Image Understanding (**CVIU**), 2026  
