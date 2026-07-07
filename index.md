@@ -14,6 +14,7 @@ For PhD/MPhil/RA applicants: I currently do not have any plan for the 2027 intak
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* One paper accepted in TVCG. (07/2026)
 * One paper accepted in ECCV. (06/2026)
 * Five papers accepted in MICCAI! Congrats to IMIXR-IVS team! (06/2026)
 * [Invited talk](https://hkage.org.hk/flyer/6617_E2CSC001T_en.pdf), The Hong Kong Academy for Gifted Education. (05/2026)
@@ -39,6 +40,10 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Recent Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* **NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**  
+R Cui\*, B Xie\*, <ins>S Qiu</ins>, J Liu, S Anwar, N Barnes  
+IEEE Transactions on Visualization and Computer Graphics (**TVCG** accepted), 2026  
+[[arXiv](https://arxiv.org/abs/2411.17392)][[project page](https://github.com/CuiRuikai/NumGrad-Pull)] 
 * **ReasonCLIP-58M: Visually Grounded Commonsense Reasoning Supervision for CLIP**  
 S Zhang, M Naseer, B Xie, N Suryanto, <ins>S Qiu</ins>, J Bentahar, N Akhtar, M Shah  
 European Conference on Computer Vision (**ECCV**), 2026  
@@ -114,7 +119,9 @@ ACM Transactions on Intelligent Systems and Technology (**TIST**, [ESI Highly Ci
 * **Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting**   
 R Zhu, <ins>Shi Qiu</ins>, Z Liu, KH Hui, Q Wu, PA Heng, CW Fu  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025  
-[[arXiv](https://arxiv.org/abs/2503.14029)][[CVF](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Rethinking_End-to-End_2D_to_3D_Scene_Segmentation_in_Gaussian_Splatting_CVPR_2025_paper.pdf)][[supp](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Zhu_Rethinking_End-to-End_2D_CVPR_2025_supplemental.pdf)][[project page](https://github.com/Runsong123/Unified-Lift)]  
+[[arXiv](https://arxiv.org/abs/2503.14029)][[CVF](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Rethinking_End-to-End_2D_to_3D_Scene_Segmentation_in_Gaussian_Splatting_CVPR_2025_paper.pdf)][[supp](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Zhu_Rethinking_End-to-End_2D_CVPR_2025_supplemental.pdf)][[project page](https://github.com/Runsong123/Unified-Lift)]   
+
+## Earlier Works
 * **Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**  
 <ins>S Qiu</ins>, B Xie, Q Liu, PA Heng  
 IEEE Conference on Virtual Reality and 3D User Interfaces (**IEEE VR**) Posters, 2025      
@@ -130,10 +137,8 @@ IEEE International Conference on Artificial Intelligence & eXtended and Virtual 
 * **Advancing Extended Reality with 3D Gaussian Splatting: Innovations and Prospects**  
 <ins>S Qiu</ins>, B Xie, Q Liu, PA Heng  
 IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (**AIxVR**), 2025  
-[[arXiv](https://arxiv.org/abs/2412.06257)][[IEEE](https://ieeexplore.ieee.org/abstract/document/10896112)]  
-
-## Earlier Works
-* **PCF-Lift: Panoptic Lifting by Probabilistic Contrastive Fusion**  
+[[arXiv](https://arxiv.org/abs/2412.06257)][[IEEE](https://ieeexplore.ieee.org/abstract/document/10896112)] 
+*  **PCF-Lift: Panoptic Lifting by Probabilistic Contrastive Fusion**  
 R Zhu, <ins>S Qiu</ins>, Q Wu, KH Hui, PA Heng, CW Fu  
 European Conference on Computer Vision (**ECCV**), 2024  
 [[arXiv](https://arxiv.org/abs/2410.10659)][[ECVA](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00187.pdf)][[supp](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00187-supp.pdf)][[poster](https://github.com/Runsong123/PCF-Lift/blob/main/assets/Poster_PCF_Lift.pdf)][[project page](https://github.com/runsong123/pcf-lift)]  
@@ -175,12 +180,6 @@ IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2021
 IEEE Transactions on Multimedia (**TMM**, [ESI Highly Cited Paper](https://www.webofscience.com/wos/woscc/full-record/WOS:000778959200013)), 2021  
 IEEE Signal Processing Society’s top 25 downloaded articles from Sept. 2024 - Sept. 2025 for IEEE Transactions on Multimedia on IEEE Xplore  
 [[arXiv](https://arxiv.org/abs/1911.12885)][[IEEE](https://ieeexplore.ieee.org/document/9410405)][[project page](https://github.com/ShiQiu0419/GFNet)]
-
-## Technical Report
-* **NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**  
-R Cui, <ins>S Qiu</ins>, J Liu, S Anwar, N Barnes  
-Preprint, 2024  
-[[arXiv](https://arxiv.org/abs/2411.17392)][[project page](https://github.com/CuiRuikai/NumGrad-Pull)]  
 
 ## Teaching
 * ENGG1125 Single Variable Calculus for Engineers (2025-2026, CUHK, **Instructor**)  
