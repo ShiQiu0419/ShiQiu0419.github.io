@@ -14,6 +14,7 @@ For PhD/MPhil/RA applicants: I currently do not have any plan for the 2027 intak
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* One paper accepted in ACM MM'26. (07/2026)
 * One paper accepted in TVCG. (07/2026)
 * One paper accepted in ECCV. (06/2026)
 * Five papers accepted in MICCAI! Congrats to IMIXR-IVS team! (06/2026)
@@ -40,6 +41,10 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Recent Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* **On the Limitations of Cross-Lingual Consistency in Multilingual Text-to-image Generation**  
+S Zhang, Z Yan, B Xie, <ins>S Qiu</ins>, M Naseer, N Akhtar, M Shah  
+ACM International Conference on Multimedia (**ACM MM**), 2026  
+[[arxiv](https://arxiv.org/)][[ACM](https://dl.acm.org/)][[project page](https://github.com/)] 
 * **NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**  
 R Cui\*, B Xie\*, <ins>S Qiu</ins>, J Liu, S Anwar, N Barnes  
 IEEE Transactions on Visualization and Computer Graphics (**TVCG** accepted), 2026  
