@@ -14,6 +14,7 @@ For PhD/MPhil/RA applicants: I currently do not have any plan for the 2027 intak
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* One paper accepted in IEEE VIS 2026 & TVCG. (07/2026)
 * One paper accepted in ACM MM'26. (07/2026)
 * One paper accepted in TVCG. (07/2026)
 * One paper accepted in ECCV. (06/2026)
