@@ -14,6 +14,7 @@ For PhD/MPhil/RA applicants: I currently do not have any plan for the 2027 intak
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* Invited as an Area Chair for ICLR 2027. (08/2026)
 * One paper accepted in IEEE VIS 2026 & TVCG. (07/2026)
 * One paper accepted in ACM MM'26. (07/2026)
 * One paper accepted in TVCG. (07/2026)
@@ -42,14 +43,18 @@ For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM eve
 
 ## Recent Publications   
 Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVthUAAAAJ), [CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/)
+* **LiverPlan: A Stage-Adaptive Immersive Visual Analytics Framework for Anatomical Liver Surgical Planning**
+Q Liu, <ins>S Qiu</ins>, X Wu, Y Tong, Y Wang, R Li, J Pei, S Zhao, CW Fu, PA Heng
+IEEE Visualization and Visual Analytics Conference (**VIS** accepted, to be published in **TVCG**), 2026
+[[arXiv](https://arxiv.org/abs/2608.04707)][[IEEE](https://shiqiu0419.github.io/)]
 * **On the Limitations of Cross-Lingual Consistency in Multilingual Text-to-image Generation**  
 S Zhang, Z Yan, B Xie, <ins>S Qiu</ins>, M Naseer, N Akhtar, M Shah  
 ACM International Conference on Multimedia (**ACM MM**), 2026  
-[[arxiv](https://arxiv.org/)][[ACM](https://dl.acm.org/)][[project page](https://github.com/)] 
+[[arxiv](https://arxiv.org/abs/2608.11002)][[ACM](https://dl.acm.org/)][[project page](https://github.com/RISys-Lab/LingT2I)][[dataset](https://huggingface.co/datasets/RISys-Lab/LingT2I)] 
 * **NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**  
 R Cui\*, B Xie\*, <ins>S Qiu</ins>, J Liu, S Anwar, N Barnes  
 IEEE Transactions on Visualization and Computer Graphics (**TVCG** accepted), 2026  
-[[arXiv](https://arxiv.org/abs/2411.17392)][[project page](https://github.com/CuiRuikai/NumGrad-Pull)] 
+[[arXiv](https://arxiv.org/abs/2411.17392)][[IEEE](https://ieeexplore.ieee.org/document/11600597)][[project page](https://github.com/CuiRuikai/NumGrad-Pull)] 
 * **ReasonCLIP-58M: Visually Grounded Commonsense Reasoning Supervision for CLIP**  
 S Zhang, M Naseer, B Xie, N Suryanto, <ins>S Qiu</ins>, J Bentahar, N Akhtar, M Shah  
 European Conference on Computer Vision (**ECCV**), 2026  
