@@ -86,7 +86,7 @@ Computer Vision and Image Understanding (**CVIU**), 2026
 * **NoiseSDF2NoiseSDF: Learning Clean Neural Fields from Noisy Supervision**  
 T Wang, W Li, R Cui, <ins>S Qiu</ins>, N Barnes  
 International Conference on Machine Learning (**ICML**), 2026  
-[[arXiv](https://arxiv.org/abs/2507.13595)][openreview: [ICLR 2026](https://openreview.net/forum?id=NCxjfPjd3z), [NeurIPS 2026](https://openreview.net/forum?id=t2RdzbtBk5)] 
+[[arXiv](https://arxiv.org/abs/2507.13595)][openreview: [ICML 2026](https://openreview.net/forum?id=SqegQxm1ya), [ICLR 2026](https://openreview.net/forum?id=NCxjfPjd3z), [NeurIPS 2026](https://openreview.net/forum?id=t2RdzbtBk5)] 
 * **EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning**   
 B Xie\*, <ins>S Qiu</ins>\*, S Zhang, Y Wang, H Xu, M Naseer, CW Fu, PA Heng   
 International Conference on Learning Representations (**ICLR**), 2026  
