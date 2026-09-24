@@ -47,7 +47,7 @@ Profile Links: [Google Scholar](https://scholar.google.com/citations?user=OPNVth
 * **Label-aware Gaussian Splatting for Medical Volume Visualization in Mixed Reality**  
 R Li, C Li, Y Tong, <ins>S Qiu</ins>, CW Fu, PA Heng  
 IEEE Transactions on Visualization and Computer Graphics (**TVCG**), 2026  
-[[arXiv](https://arxiv.org)][[IEEE](https://ieeexplore.ieee.org)][[project page](https://github.com/rainlee3d/LAGS/)] 
+[[arXiv](https://arxiv.org)][[IEEE](https://ieeexplore.ieee.org/document/11705640/)][[project page](https://github.com/rainlee3d/LAGS/)] 
 * **LiverPlan: A Stage-Adaptive Immersive Visual Analytics Framework for Anatomical Liver Surgical Planning**  
 Q Liu, <ins>S Qiu</ins>, X Wu, Y Tong, Y Wang, R Li, J Pei, S Zhao, CW Fu, PA Heng  
 IEEE Visualization and Visual Analytics Conference (**VIS** accepted, to be published in **TVCG**), 2026  
