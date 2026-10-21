@@ -14,6 +14,7 @@ For PhD/MPhil/RA applicants: I currently do not have any plan for the 2027 intak
 For CUHK students: my student consultation hours are from 2:00 PM to 4:00 PM every Tuesday.
 
 ## News
+* Invited as an Area Chair for ICML 2027. (10/2026)
 * One paper accepted in TVCG. (09/2026)
 * Invited as an Area Chair for ICLR 2027. (08/2026)
 * One paper accepted in IEEE VIS 2026 & TVCG. (07/2026)
@@ -210,7 +211,7 @@ IEEE Signal Processing Society’s top 25 downloaded articles from Sept. 2024 - 
 * I am also a registered HDR (PhD/MPhil) supervisor at ANU since 2023.
 
 ## Professional Services
-* Area Chair: ACM MM'24-26, MICCAI 2025, ICLR 2026, NeurIPS 2026.
+* Area Chair: NeurIPS 2026, ICML 2027, ICLR 2026-2027, ACM MM'24-26, MICCAI 2025.
 * Conference Reviewer: CVPR, ICCV, ECCV, AAAI, MICCAI, VR, ISMAR, etc.
 * Journal Reviewer: TOG, TVCG, TIP, TMM, TCSVT, PR, RA-L, ISPRS, etc.
 
